@@ -1,7 +1,7 @@
 # Python live chat widget
 
 ## Introduction
-This TravelBook site lets to chat for user and admin in real time. Users can start chat from the home page chatbox and admin can chat with different users from his dashboard at `http://localhost:5000/admin`.
+This Live chat app for users and admin in real time. Users can start chat from the home page chatbox and admin can chat with different users from his dashboard at `http://localhost:5009/admin`.
 
 ## Getting Started
 
@@ -17,10 +17,10 @@ This will install all of the required packages within the `requirements.txt` fil
 ### Running the server
 To run the server, execute:
 
-```bash
-export FLASK_APP=main.py
-flask run
-```
-Setting the `FLASK_APP` variable to `main.py` directs flask to use `main.py` file to run the application.
+```powershell
+Type "python app.py" to run the application 
 
-Navigate to Home page `http://localhost:5000` and `http://localhost:5000/admin` and start to chat. Have fun!
+```
+Setting the `FLASK_APP` variable to `app.py` directs flask to use `app.py` file to run the application.
+
+Navigate to Home page `http://localhost:5009` and `http://localhost:5009/admin` and start to chat. Have fun!

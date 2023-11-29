@@ -18,7 +18,7 @@ This will install all of the required packages within the `requirements.txt` fil
 To run the server, execute:
 
 ```powershell
-Type "python app.py" to run the application 
+python app.py  
 
 ```
 Setting the `FLASK_APP` variable to `app.py` directs flask to use `app.py` file to run the application.

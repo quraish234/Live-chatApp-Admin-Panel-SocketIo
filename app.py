@@ -39,7 +39,7 @@ def admin():
     return render_template('admin.html', users=users, chats=chats)
 
 @app.route('/chatbot')
-def chatbot():
+def chatbot():  
     # Fetch user chats from the database
     chats = get_user_chats()
     return render_template('chatbot.html', chats=chats)

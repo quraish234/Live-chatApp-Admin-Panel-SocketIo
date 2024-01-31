@@ -3315,4 +3315,1220 @@ Terminate batch job (Y/N)? Starting live chat server...
 (20132) accepted ('192.168.88.13', 57573)
 (20132) accepted ('192.168.88.13', 57575)
 192.168.19.160 - - [08/Dec/2023 11:01:29] "GET /socket.io/?EIO=4&transport=websocket&sid=MvKhCnMcYxebssV0AAAA HTTP/1.1" 200 0 844.202222
-Terminate batch job (Y/N)? 
+Terminate batch job (Y/N)? Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(604) wsgi starting up on http://0.0.0.0:5009
+(604) accepted ('192.168.19.160', 61791)
+192.168.19.160 - - [08/Dec/2023 11:04:50] "GET /socket.io/?EIO=4&transport=polling&t=OnAqNRJ HTTP/1.1" 200 333 0.001000
+192.168.19.160 - - [08/Dec/2023 11:04:50] "POST /socket.io/?EIO=4&transport=polling&t=OnAqNRW&sid=gcBTLRfNBKanuF5JAAAA HTTP/1.1" 200 222 0.000998
+(604) accepted ('192.168.19.160', 61792)
+(604) accepted ('192.168.19.160', 61793)
+192.168.19.160 - - [08/Dec/2023 11:04:50] "GET /socket.io/?EIO=4&transport=polling&t=OnAqNRY&sid=gcBTLRfNBKanuF5JAAAA HTTP/1.1" 200 277 0.000995
+192.168.19.160 - - [08/Dec/2023 11:04:50] "GET /socket.io/?EIO=4&transport=polling&t=OnAqNRi&sid=gcBTLRfNBKanuF5JAAAA HTTP/1.1" 200 236 0.000000
+(604) accepted ('192.168.88.13', 59231)
+(604) accepted ('192.168.88.13', 59233)
+192.168.88.13 - - [08/Dec/2023 11:04:51] "GET /socket.io/?EIO=4&transport=polling&t=OnAqJuU HTTP/1.1" 200 333 0.000000
+(604) accepted ('192.168.88.13', 59232)
+192.168.88.13 - - [08/Dec/2023 11:04:51] "GET /socket.io/?EIO=4&transport=polling&t=OnAqJuU HTTP/1.1" 200 333 0.001001
+192.168.88.13 - - [08/Dec/2023 11:04:51] "GET /socket.io/?EIO=4&transport=polling&t=OnAqJuW HTTP/1.1" 200 333 0.000000
+192.168.88.13 - - [08/Dec/2023 11:04:51] "POST /socket.io/?EIO=4&transport=polling&t=OnAqNaE&sid=1i3alb0fCNLjT4t0AAAC HTTP/1.1" 200 222 0.000000
+192.168.88.13 - - [08/Dec/2023 11:04:51] "POST /socket.io/?EIO=4&transport=polling&t=OnAqNaG&sid=9U-VZTLQ7pmxYbr4AAAD HTTP/1.1" 200 222 0.000000
+(604) accepted ('192.168.88.13', 59256)
+(604) accepted ('192.168.88.13', 59257)
+192.168.88.13 - - [08/Dec/2023 11:04:51] "POST /socket.io/?EIO=4&transport=polling&t=OnAqNaJ&sid=JhoDu48p2ImaI_NgAAAE HTTP/1.1" 200 222 0.001000
+192.168.88.13 - - [08/Dec/2023 11:04:51] "GET /socket.io/?EIO=4&transport=polling&t=OnAqNaH&sid=9U-VZTLQ7pmxYbr4AAAD HTTP/1.1" 200 277 0.000000
+192.168.88.13 - - [08/Dec/2023 11:04:51] "GET /socket.io/?EIO=4&transport=polling&t=OnAqNaL&sid=JhoDu48p2ImaI_NgAAAE HTTP/1.1" 200 277 0.001032
+192.168.88.13 - - [08/Dec/2023 11:04:51] "GET /socket.io/?EIO=4&transport=polling&t=OnAqNaU&sid=9U-VZTLQ7pmxYbr4AAAD HTTP/1.1" 200 236 0.000997
+192.168.88.13 - - [08/Dec/2023 11:04:51] "GET /socket.io/?EIO=4&transport=polling&t=OnAqNaG&sid=1i3alb0fCNLjT4t0AAAC HTTP/1.1" 200 277 0.000983
+(604) accepted ('192.168.88.13', 59259)
+192.168.88.13 - - [08/Dec/2023 11:04:51] "GET /socket.io/?EIO=4&transport=polling&t=OnAqNac&sid=1i3alb0fCNLjT4t0AAAC HTTP/1.1" 200 236 0.000000
+(604) accepted ('192.168.88.13', 59260)
+192.168.88.13 - - [08/Dec/2023 11:04:51] "GET /socket.io/?EIO=4&transport=polling&t=OnAqNah&sid=1i3alb0fCNLjT4t0AAAC HTTP/1.1" 200 236 0.000000
+192.168.88.13 - - [08/Dec/2023 11:04:51] "GET /socket.io/?EIO=4&transport=polling&t=OnAqNaW&sid=JhoDu48p2ImaI_NgAAAE HTTP/1.1" 200 236 0.011977
+(604) accepted ('192.168.88.13', 59234)
+(604) accepted ('192.168.88.13', 59235)
+(604) accepted ('192.168.19.160', 61845)
+192.168.19.160 - - [08/Dec/2023 11:06:47] "GET /socket.io/?EIO=4&transport=polling&t=OnAqpv3 HTTP/1.1" 200 333 0.000000
+192.168.19.160 - - [08/Dec/2023 11:06:47] "POST /socket.io/?EIO=4&transport=polling&t=OnAqpvM&sid=xleMuFYwyktt6UjKAAAI HTTP/1.1" 200 222 0.001002
+(604) accepted ('192.168.19.160', 61846)
+192.168.19.160 - - [08/Dec/2023 11:06:47] "GET /socket.io/?EIO=4&transport=polling&t=OnAqpvR&sid=xleMuFYwyktt6UjKAAAI HTTP/1.1" 200 236 0.001001
+192.168.19.160 - - [08/Dec/2023 11:06:47] "GET /socket.io/?EIO=4&transport=polling&t=OnAqpvc&sid=xleMuFYwyktt6UjKAAAI HTTP/1.1" 200 236 0.000000
+192.168.88.13 - - [08/Dec/2023 11:06:47] "GET /socket.io/?EIO=4&transport=websocket&sid=JhoDu48p2ImaI_NgAAAE HTTP/1.1" 200 0 116.104195
+192.168.88.13 - - [08/Dec/2023 11:06:47] "GET /socket.io/?EIO=4&transport=polling&t=OnAqpzD HTTP/1.1" 200 333 0.000999
+192.168.88.13 - - [08/Dec/2023 11:06:47] "POST /socket.io/?EIO=4&transport=polling&t=OnAqpzm&sid=3vQekqVOd2h-TByzAAAK HTTP/1.1" 200 222 0.000999
+(604) accepted ('192.168.88.13', 59439)
+192.168.88.13 - - [08/Dec/2023 11:06:47] "GET /socket.io/?EIO=4&transport=polling&t=OnAqpzo&sid=3vQekqVOd2h-TByzAAAK HTTP/1.1" 200 236 0.000000
+192.168.88.13 - - [08/Dec/2023 11:06:47] "GET /socket.io/?EIO=4&transport=polling&t=OnAqp-0&sid=3vQekqVOd2h-TByzAAAK HTTP/1.1" 200 236 0.000999
+192.168.19.160 - - [08/Dec/2023 11:06:50] "GET /socket.io/?EIO=4&transport=websocket&sid=xleMuFYwyktt6UjKAAAI HTTP/1.1" 200 0 3.068078
+192.168.19.160 - - [08/Dec/2023 11:06:52] "GET /socket.io/?EIO=4&transport=websocket&sid=gcBTLRfNBKanuF5JAAAA HTTP/1.1" 200 0 121.548553
+192.168.88.13 - - [08/Dec/2023 11:49:26] "GET /socket.io/?EIO=4&transport=websocket&sid=9U-VZTLQ7pmxYbr4AAAD HTTP/1.1" 200 0 2675.124256
+(604) accepted ('192.168.88.13', 63534)
+192.168.88.13 - - [08/Dec/2023 11:49:30] "GET /socket.io/?EIO=4&transport=polling&t=OnA-bea HTTP/1.1" 200 333 0.001025
+192.168.88.13 - - [08/Dec/2023 11:49:30] "POST /socket.io/?EIO=4&transport=polling&t=OnA-ben&sid=oX85DUvKS7ABUWFGAAAM HTTP/1.1" 200 222 0.001000
+(604) accepted ('192.168.88.13', 63535)
+192.168.88.13 - - [08/Dec/2023 11:49:30] "GET /socket.io/?EIO=4&transport=polling&t=OnA-beo&sid=oX85DUvKS7ABUWFGAAAM HTTP/1.1" 200 277 0.000000
+(604) accepted ('192.168.88.13', 63536)
+192.168.88.13 - - [08/Dec/2023 11:49:30] "GET /socket.io/?EIO=4&transport=polling&t=OnA-bex&sid=oX85DUvKS7ABUWFGAAAM HTTP/1.1" 200 236 0.000000
+192.168.88.13 - - [08/Dec/2023 11:50:51] "GET /socket.io/?EIO=4&transport=websocket&sid=oX85DUvKS7ABUWFGAAAM HTTP/1.1" 200 0 80.717682
+192.168.88.13 - - [08/Dec/2023 11:50:54] "GET /socket.io/?EIO=4&transport=websocket&sid=3vQekqVOd2h-TByzAAAK HTTP/1.1" 200 0 2646.832486
+(604) accepted ('192.168.19.160', 49814)
+192.168.19.160 - - [08/Dec/2023 12:34:35] "GET /socket.io/?EIO=4&transport=polling&t=OnB8w35 HTTP/1.1" 200 333 0.000000
+192.168.19.160 - - [08/Dec/2023 12:34:35] "POST /socket.io/?EIO=4&transport=polling&t=OnB8w3F&sid=GEKPpkhftTZ2yn0tAAAO HTTP/1.1" 200 222 0.000000
+(604) accepted ('192.168.19.160', 49815)
+192.168.19.160 - - [08/Dec/2023 12:34:35] "GET /socket.io/?EIO=4&transport=polling&t=OnB8w3I&sid=GEKPpkhftTZ2yn0tAAAO HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [08/Dec/2023 12:34:35] "GET /socket.io/?EIO=4&transport=polling&t=OnB8w3c&sid=GEKPpkhftTZ2yn0tAAAO HTTP/1.1" 200 236 0.001001
+(604) accepted ('192.168.19.160', 49830)
+192.168.19.160 - - [08/Dec/2023 12:34:49] "GET /socket.io/?EIO=4&transport=polling&t=OnB8zU0 HTTP/1.1" 200 333 0.001999
+192.168.19.160 - - [08/Dec/2023 12:34:49] "POST /socket.io/?EIO=4&transport=polling&t=OnB8zUF&sid=edz8QVNrWqFXzJw1AAAQ HTTP/1.1" 200 222 0.001000
+(604) accepted ('192.168.19.160', 49831)
+192.168.19.160 - - [08/Dec/2023 12:34:49] "GET /socket.io/?EIO=4&transport=polling&t=OnB8zUI&sid=edz8QVNrWqFXzJw1AAAQ HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [08/Dec/2023 12:34:49] "GET /socket.io/?EIO=4&transport=polling&t=OnB8zUR&sid=edz8QVNrWqFXzJw1AAAQ HTTP/1.1" 200 236 0.000999
+192.168.19.160 - - [08/Dec/2023 12:35:09] "GET /socket.io/?EIO=4&transport=websocket&sid=GEKPpkhftTZ2yn0tAAAO HTTP/1.1" 200 0 34.422235
+ * Detected change in 'E:\\LiveChatVersionControlled\\Live-chatApp-Admin-Panel-SocketIo\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(7128) wsgi starting up on http://0.0.0.0:5009
+(7128) accepted ('192.168.19.160', 49961)
+192.168.19.160 - - [08/Dec/2023 12:43:24] "GET /socket.io/?EIO=4&transport=polling&t=OnBAx2b HTTP/1.1" 200 333 0.001999
+(7128) accepted ('192.168.19.160', 49962)
+192.168.19.160 - - [08/Dec/2023 12:43:24] "POST /socket.io/?EIO=4&transport=polling&t=OnBAxFK&sid=Fkx_mQumYcdH1ZYrAAAA HTTP/1.1" 200 222 0.001000
+(7128) accepted ('192.168.19.160', 49964)
+192.168.19.160 - - [08/Dec/2023 12:43:24] "GET /socket.io/?EIO=4&transport=polling&t=OnBAxFM&sid=Fkx_mQumYcdH1ZYrAAAA HTTP/1.1" 200 236 0.001000
+(7128) accepted ('192.168.88.13', 52558)
+192.168.88.13 - - [08/Dec/2023 12:43:26] "GET /socket.io/?EIO=4&transport=polling&t=OnBAvwN HTTP/1.1" 200 333 0.001000
+192.168.88.13 - - [08/Dec/2023 12:43:26] "POST /socket.io/?EIO=4&transport=polling&t=OnBAxeG&sid=GcBg8nNn5cIKTymcAAAC HTTP/1.1" 200 222 0.000000
+(7128) accepted ('192.168.88.13', 52574)
+192.168.88.13 - - [08/Dec/2023 12:43:26] "GET /socket.io/?EIO=4&transport=polling&t=OnBAxeI&sid=GcBg8nNn5cIKTymcAAAC HTTP/1.1" 200 236 0.000000
+192.168.88.13 - - [08/Dec/2023 12:43:26] "GET /socket.io/?EIO=4&transport=polling&t=OnBAxeO&sid=GcBg8nNn5cIKTymcAAAC HTTP/1.1" 200 236 0.000999
+(7128) accepted ('192.168.88.13', 52559)
+192.168.88.13 - - [08/Dec/2023 14:22:43] "GET /socket.io/?EIO=4&transport=websocket&sid=GcBg8nNn5cIKTymcAAAC HTTP/1.1" 200 0 5957.476007
+ * Detected change in 'E:\\LiveChatVersionControlled\\Live-chatApp-Admin-Panel-SocketIo\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(9368) wsgi starting up on http://0.0.0.0:5009
+(9368) accepted ('192.168.19.160', 52070)
+192.168.19.160 - - [08/Dec/2023 15:35:26] "GET /socket.io/?EIO=4&transport=polling&t=OnBoJ4n HTTP/1.1" 200 333 0.000999
+192.168.19.160 - - [08/Dec/2023 15:35:26] "POST /socket.io/?EIO=4&transport=polling&t=OnBoJCq&sid=am-eM8U1usL-vIrUAAAA HTTP/1.1" 200 222 0.000998
+(9368) accepted ('192.168.19.160', 52073)
+192.168.19.160 - - [08/Dec/2023 15:35:26] "GET /socket.io/?EIO=4&transport=polling&t=OnBoJCt&sid=am-eM8U1usL-vIrUAAAA HTTP/1.1" 200 236 0.001000
+192.168.19.160 - - [08/Dec/2023 15:35:26] "GET /socket.io/?EIO=4&transport=polling&t=OnBoJD6&sid=am-eM8U1usL-vIrUAAAA HTTP/1.1" 200 236 0.001001
+(9368) accepted ('192.168.19.160', 52071)
+(9368) accepted ('192.168.88.13', 63113)
+192.168.88.13 - - [08/Dec/2023 16:48:51] "GET /socket.io/?EIO=4&transport=polling&t=OnC36g2 HTTP/1.1" 200 333 0.000999
+192.168.88.13 - - [08/Dec/2023 16:48:51] "POST /socket.io/?EIO=4&transport=polling&t=OnC36gA&sid=PBEwDZqziV9if0-DAAAC HTTP/1.1" 200 222 0.000996
+192.168.88.13 - - [08/Dec/2023 16:48:51] "GET /socket.io/?EIO=4&transport=polling&t=OnC36gB&sid=PBEwDZqziV9if0-DAAAC HTTP/1.1" 200 277 0.000000
+(9368) accepted ('192.168.88.13', 63114)
+192.168.88.13 - - [08/Dec/2023 16:48:51] "GET /socket.io/?EIO=4&transport=polling&t=OnC36gG&sid=PBEwDZqziV9if0-DAAAC HTTP/1.1" 200 236 0.000000
+(9368) accepted ('127.0.0.1', 54539)
+127.0.0.1 - - [08/Dec/2023 17:00:42] "GET /api/users HTTP/1.1" 404 412 0.001999
+127.0.0.1 - - [08/Dec/2023 17:00:58] "GET /users HTTP/1.1" 404 412 0.001029
+127.0.0.1 - - [08/Dec/2023 17:01:29] "GET /api/users HTTP/1.1" 404 412 0.001998
+127.0.0.1 - - [08/Dec/2023 17:02:46] "GET /api/chats HTTP/1.1" 404 412 0.002031
+127.0.0.1 - - [08/Dec/2023 17:04:53] "GET /api/chats?user_id=85 HTTP/1.1" 404 412 0.001000
+(9368) accepted ('127.0.0.1', 54612)
+127.0.0.1 - - [08/Dec/2023 17:05:46] "GET /socket.io/?user_id=85&EIO=4&transport=websocket HTTP/1.1" 200 0 11.445321
+192.168.88.13 - - [08/Dec/2023 17:50:22] "GET /socket.io/?EIO=4&transport=websocket&sid=PBEwDZqziV9if0-DAAAC HTTP/1.1" 200 0 3690.959725
+(9368) accepted ('192.168.88.13', 60623)
+192.168.88.13 - - [08/Dec/2023 17:53:24] "GET /socket.io/?EIO=4&transport=polling&t=OnCHuAT HTTP/1.1" 200 333 0.000000
+192.168.88.13 - - [08/Dec/2023 17:53:24] "POST /socket.io/?EIO=4&transport=polling&t=OnCHuKK&sid=3QULUX9Xf-fqqbc4AAAF HTTP/1.1" 200 222 0.001001
+(9368) accepted ('192.168.88.13', 60624)
+192.168.88.13 - - [08/Dec/2023 17:53:24] "GET /socket.io/?EIO=4&transport=polling&t=OnCHuKb&sid=3QULUX9Xf-fqqbc4AAAF HTTP/1.1" 200 236 0.000000
+192.168.88.13 - - [08/Dec/2023 17:53:24] "GET /socket.io/?EIO=4&transport=polling&t=OnCHuKi&sid=3QULUX9Xf-fqqbc4AAAF HTTP/1.1" 200 236 0.001000
+192.168.88.13 - - [08/Dec/2023 17:53:24] "GET /socket.io/?EIO=4&transport=polling&t=OnCHuKr&sid=3QULUX9Xf-fqqbc4AAAF HTTP/1.1" 200 236 0.001000
+192.168.88.13 - - [08/Dec/2023 17:53:56] "GET /socket.io/?EIO=4&transport=websocket&sid=3QULUX9Xf-fqqbc4AAAF HTTP/1.1" 200 0 32.227821
+(9368) accepted ('192.168.88.13', 52020)
+192.168.88.13 - - [11/Dec/2023 09:27:18] "GET /socket.io/?EIO=4&transport=polling&t=OnPwrra HTTP/1.1" 200 333 0.000000
+192.168.88.13 - - [11/Dec/2023 09:27:18] "POST /socket.io/?EIO=4&transport=polling&t=OnPwsCv&sid=fpIPA00qrGFWuTWUAAAH HTTP/1.1" 200 222 0.001000
+(9368) accepted ('192.168.88.13', 52021)
+192.168.88.13 - - [11/Dec/2023 09:27:18] "GET /socket.io/?EIO=4&transport=polling&t=OnPwsCw&sid=fpIPA00qrGFWuTWUAAAH HTTP/1.1" 200 236 0.000000
+192.168.88.13 - - [11/Dec/2023 09:27:18] "GET /socket.io/?EIO=4&transport=polling&t=OnPwsG3&sid=fpIPA00qrGFWuTWUAAAH HTTP/1.1" 200 236 0.000000
+192.168.88.13 - - [11/Dec/2023 09:27:18] "GET /socket.io/?EIO=4&transport=polling&t=OnPwsG9&sid=fpIPA00qrGFWuTWUAAAH HTTP/1.1" 200 236 0.000000
+(9368) accepted ('127.0.0.1', 51986)
+127.0.0.1 - - [11/Dec/2023 10:15:18] "GET / HTTP/1.1" 200 3454 1.411524
+(9368) accepted ('127.0.0.1', 51987)
+127.0.0.1 - - [11/Dec/2023 10:15:18] "GET /static/main.css HTTP/1.1" 304 277 0.075976
+127.0.0.1 - - [11/Dec/2023 10:15:18] "GET /static/script.js HTTP/1.1" 200 4981 0.379885
+(9368) accepted ('192.168.19.160', 51989)
+192.168.19.160 - - [11/Dec/2023 10:15:18] "GET /socket.io/?EIO=4&transport=polling&t=OnQ5p9i HTTP/1.1" 200 330 0.000000
+192.168.19.160 - - [11/Dec/2023 10:15:18] "POST /socket.io/?EIO=4&transport=polling&t=OnQ5p9v&sid=UqpetrWK6YDGNacuAAAJ HTTP/1.1" 200 219 0.000997
+192.168.19.160 - - [11/Dec/2023 10:15:18] "GET /socket.io/?EIO=4&transport=polling&t=OnQ5p9z&sid=UqpetrWK6YDGNacuAAAJ HTTP/1.1" 200 274 0.001000
+192.168.19.160 - - [11/Dec/2023 10:15:43] "GET /socket.io/?EIO=4&transport=polling&t=OnQ5pA2&sid=UqpetrWK6YDGNacuAAAJ HTTP/1.1" 200 233 24.973137
+192.168.88.13 - - [11/Dec/2023 10:23:47] "GET /socket.io/?EIO=4&transport=websocket&sid=fpIPA00qrGFWuTWUAAAH HTTP/1.1" 200 0 3388.862878
+(9368) accepted ('127.0.0.1', 54803)
+127.0.0.1 - - [11/Dec/2023 17:04:45] "GET / HTTP/1.1" 200 3468 0.002001
+192.168.19.160 - - [12/Dec/2023 09:08:24] "GET /socket.io/?EIO=4&transport=websocket&sid=am-eM8U1usL-vIrUAAAA HTTP/1.1" 200 0 322378.088204
+(9368) accepted ('192.168.19.160', 63391)
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Alq HTTP/1.1" 200 333 0.000999
+192.168.19.160 - - [12/Dec/2023 09:08:48] "POST /socket.io/?EIO=4&transport=polling&t=OnV0Am0&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 222 0.001001
+(9368) accepted ('192.168.19.160', 63392)
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Am3&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.001000
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0AmB&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0AmJ&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0AmN&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0AmT&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Anb&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000999
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Anf&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000997
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Ank&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Anz&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000998
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Ao1&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.001000
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Ao5&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.001004
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Ao9&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000999
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0AoD&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.001028
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0AoH&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.001000
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0AoL&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.001000
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0AoP&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000999
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0AoT&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000993
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0AoX&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000991
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Aob&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000997
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Aof&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000993
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Aoj&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000998
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Aon&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.001001
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Aor&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000992
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Aov&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000994
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Aoz&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.001001
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Ap1&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000998
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Ap5&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Ap9&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0ApD&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0ApH&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0ApL&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0ApP&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0ApT&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0ApX&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:48] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Apb&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:49] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Apf&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:49] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Apj&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:49] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Apn&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000999
+192.168.19.160 - - [12/Dec/2023 09:08:49] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Apr&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:49] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Apv&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:49] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Apz&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:49] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Aq1&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:49] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Aq5&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:49] "GET /socket.io/?EIO=4&transport=polling&t=OnV0Aq8&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 09:08:49] "GET /socket.io/?EIO=4&transport=polling&t=OnV0AqC&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 10:00:20] "GET /socket.io/?EIO=4&transport=websocket&sid=173eKo7LvYrn6ybvAAAL HTTP/1.1" 200 0 3092.102762
+(9368) accepted ('192.168.19.160', 50146)
+192.168.19.160 - - [12/Dec/2023 10:00:28] "GET /socket.io/?EIO=4&transport=polling&t=OnVB_Ss HTTP/1.1" 200 333 0.000995
+192.168.19.160 - - [12/Dec/2023 10:00:28] "POST /socket.io/?EIO=4&transport=polling&t=OnVB_T8&sid=dCgP2MJVevYPZcp4AAAN HTTP/1.1" 200 222 0.000972
+(9368) accepted ('192.168.19.160', 50147)
+192.168.19.160 - - [12/Dec/2023 10:00:28] "GET /socket.io/?EIO=4&transport=polling&t=OnVB_TB&sid=dCgP2MJVevYPZcp4AAAN HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 10:00:28] "GET /socket.io/?EIO=4&transport=polling&t=OnVB_TK&sid=dCgP2MJVevYPZcp4AAAN HTTP/1.1" 200 236 0.001003
+(9368) accepted ('192.168.19.160', 50257)
+192.168.19.160 - - [12/Dec/2023 10:02:11] "GET /socket.io/?EIO=4&transport=polling&t=OnVCOhl HTTP/1.1" 200 333 0.000000
+192.168.19.160 - - [12/Dec/2023 10:02:11] "POST /socket.io/?EIO=4&transport=polling&t=OnVCOhx&sid=zqZswcZfs_t2gk3NAAAP HTTP/1.1" 200 222 0.000999
+192.168.19.160 - - [12/Dec/2023 10:02:11] "GET /socket.io/?EIO=4&transport=polling&t=OnVCOh-&sid=zqZswcZfs_t2gk3NAAAP HTTP/1.1" 200 277 0.000000
+192.168.19.160 - - [12/Dec/2023 10:02:36] "GET /socket.io/?EIO=4&transport=polling&t=OnVCOi3&sid=zqZswcZfs_t2gk3NAAAP HTTP/1.1" 200 236 24.983109
+(9368) accepted ('192.168.19.160', 51268)
+192.168.19.160 - - [12/Dec/2023 10:17:22] "GET /socket.io/?EIO=4&transport=polling&t=OnVFt3l HTTP/1.1" 200 333 0.001027
+192.168.19.160 - - [12/Dec/2023 10:17:22] "POST /socket.io/?EIO=4&transport=polling&t=OnVFt3y&sid=kOuQA95DRtCtoW_EAAAR HTTP/1.1" 200 222 0.001028
+(9368) accepted ('192.168.19.160', 51269)
+192.168.19.160 - - [12/Dec/2023 10:17:22] "GET /socket.io/?EIO=4&transport=polling&t=OnVFt3-&sid=kOuQA95DRtCtoW_EAAAR HTTP/1.1" 200 277 0.000970
+(9368) accepted ('192.168.19.160', 51274)
+192.168.19.160 - - [12/Dec/2023 10:17:24] "GET /socket.io/?EIO=4&transport=polling&t=OnVFthh HTTP/1.1" 200 333 0.001001
+192.168.19.160 - - [12/Dec/2023 10:17:24] "POST /socket.io/?EIO=4&transport=polling&t=OnVFtht&sid=tGDJFfSNJuf4HiNtAAAT HTTP/1.1" 200 222 0.000998
+(9368) accepted ('192.168.19.160', 51275)
+192.168.19.160 - - [12/Dec/2023 10:17:24] "GET /socket.io/?EIO=4&transport=polling&t=OnVFthw&sid=tGDJFfSNJuf4HiNtAAAT HTTP/1.1" 200 236 0.000987
+192.168.19.160 - - [12/Dec/2023 10:17:24] "GET /socket.io/?EIO=4&transport=polling&t=OnVFti2&sid=tGDJFfSNJuf4HiNtAAAT HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 10:17:25] "GET /socket.io/?EIO=4&transport=polling&t=OnVFti8&sid=tGDJFfSNJuf4HiNtAAAT HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 10:17:25] "GET /socket.io/?EIO=4&transport=polling&t=OnVFtiC&sid=tGDJFfSNJuf4HiNtAAAT HTTP/1.1" 200 236 0.001003
+192.168.19.160 - - [12/Dec/2023 10:17:25] "GET /socket.io/?EIO=4&transport=polling&t=OnVFtiG&sid=tGDJFfSNJuf4HiNtAAAT HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 10:17:25] "GET /socket.io/?EIO=4&transport=polling&t=OnVFtiJ&sid=tGDJFfSNJuf4HiNtAAAT HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 10:17:38] "GET /socket.io/?EIO=4&transport=websocket&sid=tGDJFfSNJuf4HiNtAAAT HTTP/1.1" 200 0 13.691702
+(9368) accepted ('192.168.19.160', 51295)
+192.168.19.160 - - [12/Dec/2023 10:17:38] "GET /socket.io/?EIO=4&transport=polling&t=OnVFx4u HTTP/1.1" 200 333 0.001000
+192.168.19.160 - - [12/Dec/2023 10:17:38] "POST /socket.io/?EIO=4&transport=polling&t=OnVFx5G&sid=oBa0DvVOZP0pCjS3AAAV HTTP/1.1" 200 222 0.001997
+(9368) accepted ('192.168.19.160', 51296)
+(9368) accepted ('192.168.19.160', 51297)
+192.168.19.160 - - [12/Dec/2023 10:17:38] "GET /socket.io/?EIO=4&transport=polling&t=OnVFx5K&sid=oBa0DvVOZP0pCjS3AAAV HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 10:17:38] "GET /socket.io/?EIO=4&transport=polling&t=OnVFx5g&sid=oBa0DvVOZP0pCjS3AAAV HTTP/1.1" 200 236 0.000998
+192.168.19.160 - - [12/Dec/2023 10:17:47] "GET /socket.io/?EIO=4&transport=polling&t=OnVFt46&sid=kOuQA95DRtCtoW_EAAAR HTTP/1.1" 200 236 24.988103
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: ''
+Terminate batch job (Y/N)? Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(19932) wsgi starting up on http://0.0.0.0:5009
+(19932) accepted ('192.168.19.160', 51330)
+192.168.19.160 - - [12/Dec/2023 10:17:58] "GET /socket.io/?EIO=4&transport=polling&t=OnVF_wf HTTP/1.1" 200 333 0.001000
+192.168.19.160 - - [12/Dec/2023 10:17:58] "POST /socket.io/?EIO=4&transport=polling&t=OnVF_wo&sid=8UiEIQzI4ia-1DrOAAAA HTTP/1.1" 200 222 0.001997
+(19932) accepted ('192.168.19.160', 51331)
+192.168.19.160 - - [12/Dec/2023 10:17:58] "GET /socket.io/?EIO=4&transport=polling&t=OnVF_wq&sid=8UiEIQzI4ia-1DrOAAAA HTTP/1.1" 200 236 0.000999
+192.168.19.160 - - [12/Dec/2023 10:17:58] "GET /socket.io/?EIO=4&transport=polling&t=OnVF_x0&sid=8UiEIQzI4ia-1DrOAAAA HTTP/1.1" 200 236 0.002998
+192.168.19.160 - - [12/Dec/2023 10:17:58] "GET /socket.io/?EIO=4&transport=polling&t=OnVF_x7&sid=8UiEIQzI4ia-1DrOAAAA HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 10:17:58] "GET /socket.io/?EIO=4&transport=polling&t=OnVF_xD&sid=8UiEIQzI4ia-1DrOAAAA HTTP/1.1" 200 236 0.000999
+192.168.19.160 - - [12/Dec/2023 10:17:58] "GET /socket.io/?EIO=4&transport=polling&t=OnVF_xI&sid=8UiEIQzI4ia-1DrOAAAA HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 10:17:58] "GET /socket.io/?EIO=4&transport=polling&t=OnVF_xO&sid=8UiEIQzI4ia-1DrOAAAA HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 10:17:59] "GET /socket.io/?EIO=4&transport=polling&t=OnVG08L HTTP/1.1" 200 333 0.001000
+192.168.19.160 - - [12/Dec/2023 10:17:59] "POST /socket.io/?EIO=4&transport=polling&t=OnVG08V&sid=-0cotaGKXs-FIzmPAAAC HTTP/1.1" 200 222 0.001003
+(19932) accepted ('192.168.19.160', 51333)
+192.168.19.160 - - [12/Dec/2023 10:17:59] "GET /socket.io/?EIO=4&transport=polling&t=OnVG08Y&sid=-0cotaGKXs-FIzmPAAAC HTTP/1.1" 200 236 0.001000
+192.168.19.160 - - [12/Dec/2023 10:17:59] "GET /socket.io/?EIO=4&transport=polling&t=OnVG08g&sid=-0cotaGKXs-FIzmPAAAC HTTP/1.1" 200 236 0.000998
+192.168.19.160 - - [12/Dec/2023 10:18:10] "GET /socket.io/?EIO=4&transport=websocket&sid=-0cotaGKXs-FIzmPAAAC HTTP/1.1" 200 0 10.470694
+(19932) accepted ('192.168.19.160', 51350)
+192.168.19.160 - - [12/Dec/2023 10:18:10] "GET /socket.io/?EIO=4&transport=polling&t=OnVG2kE HTTP/1.1" 200 333 0.000000
+192.168.19.160 - - [12/Dec/2023 10:18:10] "POST /socket.io/?EIO=4&transport=polling&t=OnVG2kS&sid=v3-vESHXiHFj9o0NAAAE HTTP/1.1" 200 222 0.000000
+(19932) accepted ('192.168.19.160', 51351)
+192.168.19.160 - - [12/Dec/2023 10:18:10] "GET /socket.io/?EIO=4&transport=polling&t=OnVG2kU&sid=v3-vESHXiHFj9o0NAAAE HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 10:18:19] "GET /socket.io/?EIO=4&transport=websocket&sid=v3-vESHXiHFj9o0NAAAE HTTP/1.1" 200 0 9.142090
+(19932) accepted ('192.168.19.160', 51364)
+192.168.19.160 - - [12/Dec/2023 10:18:19] "GET /socket.io/?EIO=4&transport=polling&t=OnVG4_m HTTP/1.1" 200 333 0.000999
+192.168.19.160 - - [12/Dec/2023 10:18:19] "POST /socket.io/?EIO=4&transport=polling&t=OnVG507&sid=zh5LlzJ5Dm6NVqj6AAAG HTTP/1.1" 200 222 0.001000
+(19932) accepted ('192.168.19.160', 51365)
+192.168.19.160 - - [12/Dec/2023 10:18:19] "GET /socket.io/?EIO=4&transport=polling&t=OnVG50A&sid=zh5LlzJ5Dm6NVqj6AAAG HTTP/1.1" 200 236 0.001000
+192.168.19.160 - - [12/Dec/2023 10:18:19] "GET /socket.io/?EIO=4&transport=polling&t=OnVG50K&sid=zh5LlzJ5Dm6NVqj6AAAG HTTP/1.1" 200 236 0.000999
+192.168.19.160 - - [12/Dec/2023 10:18:37] "GET /socket.io/?EIO=4&transport=websocket&sid=zh5LlzJ5Dm6NVqj6AAAG HTTP/1.1" 200 0 18.188258
+(19932) accepted ('192.168.19.160', 51390)
+192.168.19.160 - - [12/Dec/2023 10:18:37] "GET /socket.io/?EIO=4&transport=polling&t=OnVG9U2 HTTP/1.1" 200 333 0.000000
+192.168.19.160 - - [12/Dec/2023 10:18:37] "POST /socket.io/?EIO=4&transport=polling&t=OnVG9UI&sid=hZJ3bIhbH4IqsnfQAAAI HTTP/1.1" 200 222 0.000000
+(19932) accepted ('192.168.19.160', 51391)
+(19932) accepted ('192.168.19.160', 51392)
+192.168.19.160 - - [12/Dec/2023 10:18:37] "GET /socket.io/?EIO=4&transport=polling&t=OnVG9UM&sid=hZJ3bIhbH4IqsnfQAAAI HTTP/1.1" 200 236 0.001000
+192.168.19.160 - - [12/Dec/2023 10:18:37] "GET /socket.io/?EIO=4&transport=polling&t=OnVG9Ua&sid=hZJ3bIhbH4IqsnfQAAAI HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 10:19:04] "GET /socket.io/?EIO=4&transport=websocket&sid=hZJ3bIhbH4IqsnfQAAAI HTTP/1.1" 200 0 26.880545
+(19932) accepted ('192.168.19.160', 51436)
+192.168.19.160 - - [12/Dec/2023 10:19:04] "GET /socket.io/?EIO=4&transport=polling&t=OnVGG3s HTTP/1.1" 200 333 0.001001
+192.168.19.160 - - [12/Dec/2023 10:19:04] "POST /socket.io/?EIO=4&transport=polling&t=OnVGG4I&sid=c8KyMNtzSBuVLRbjAAAK HTTP/1.1" 200 222 0.001004
+(19932) accepted ('192.168.19.160', 51437)
+192.168.19.160 - - [12/Dec/2023 10:19:04] "GET /socket.io/?EIO=4&transport=polling&t=OnVGG4N&sid=c8KyMNtzSBuVLRbjAAAK HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [12/Dec/2023 10:19:11] "GET /socket.io/?EIO=4&transport=websocket&sid=c8KyMNtzSBuVLRbjAAAK HTTP/1.1" 200 0 6.501945
+192.168.19.160 - - [12/Dec/2023 10:19:13] "GET /socket.io/?EIO=4&transport=polling&t=OnVGIBt HTTP/1.1" 200 333 0.001005
+192.168.19.160 - - [12/Dec/2023 10:19:13] "POST /socket.io/?EIO=4&transport=polling&t=OnVGIC0&sid=G53D86GPEUG_8EkyAAAM HTTP/1.1" 200 222 0.000000
+192.168.19.160 - - [12/Dec/2023 10:19:13] "GET /socket.io/?EIO=4&transport=polling&t=OnVGIC4&sid=G53D86GPEUG_8EkyAAAM HTTP/1.1" 200 277 0.000973
+(19932) accepted ('192.168.19.160', 51447)
+192.168.19.160 - - [12/Dec/2023 10:19:13] "GET /socket.io/?EIO=4&transport=polling&t=OnVGICA&sid=G53D86GPEUG_8EkyAAAM HTTP/1.1" 200 236 0.336894
+192.168.19.160 - - [12/Dec/2023 10:19:29] "GET /socket.io/?EIO=4&transport=websocket&sid=G53D86GPEUG_8EkyAAAM HTTP/1.1" 200 0 15.818006
+192.168.19.160 - - [12/Dec/2023 10:19:29] "GET /socket.io/?EIO=4&transport=polling&t=OnVGM9m HTTP/1.1" 200 333 0.000000
+192.168.19.160 - - [12/Dec/2023 10:19:29] "POST /socket.io/?EIO=4&transport=polling&t=OnVGM9x&sid=kO1edj87fZpFIEyUAAAO HTTP/1.1" 200 222 0.000999
+(19932) accepted ('192.168.19.160', 51467)
+192.168.19.160 - - [12/Dec/2023 10:19:29] "GET /socket.io/?EIO=4&transport=polling&t=OnVGM9-&sid=kO1edj87fZpFIEyUAAAO HTTP/1.1" 200 236 0.001004
+192.168.19.160 - - [12/Dec/2023 10:19:29] "GET /socket.io/?EIO=4&transport=polling&t=OnVGMAD&sid=kO1edj87fZpFIEyUAAAO HTTP/1.1" 200 236 0.000000
+ * Detected change in 'E:\\LiveChatVersionControlled\\Live-chatApp-Admin-Panel-SocketIo\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(20648) wsgi starting up on http://0.0.0.0:5009
+(20648) accepted ('192.168.19.160', 51507)
+192.168.19.160 - - [12/Dec/2023 10:19:55] "GET /socket.io/?EIO=4&transport=polling&t=OnVGSDD HTTP/1.1" 200 333 0.001001
+192.168.19.160 - - [12/Dec/2023 10:19:55] "GET /socket.io/?EIO=4&transport=polling&t=OnVGSDE HTTP/1.1" 200 333 0.000000
+(20648) accepted ('192.168.19.160', 51509)
+192.168.19.160 - - [12/Dec/2023 10:19:55] "POST /socket.io/?EIO=4&transport=polling&t=OnVGSLC&sid=wd4q3edOHWejjd1cAAAA HTTP/1.1" 200 222 0.000991
+(20648) accepted ('192.168.19.160', 51512)
+192.168.19.160 - - [12/Dec/2023 10:19:55] "POST /socket.io/?EIO=4&transport=polling&t=OnVGSLE&sid=rXJ-NjEFwgMXiMCRAAAB HTTP/1.1" 200 222 0.001000
+(20648) accepted ('192.168.19.160', 51513)
+192.168.19.160 - - [12/Dec/2023 10:19:55] "GET /socket.io/?EIO=4&transport=polling&t=OnVGSLE&sid=wd4q3edOHWejjd1cAAAA HTTP/1.1" 200 277 0.000000
+192.168.19.160 - - [12/Dec/2023 10:19:55] "GET /socket.io/?EIO=4&transport=polling&t=OnVGSLF&sid=rXJ-NjEFwgMXiMCRAAAB HTTP/1.1" 200 277 0.000000
+192.168.19.160 - - [12/Dec/2023 10:19:55] "GET /socket.io/?EIO=4&transport=polling&t=OnVGSLQ&sid=wd4q3edOHWejjd1cAAAA HTTP/1.1" 200 236 0.001003
+(20648) accepted ('192.168.19.160', 51515)
+192.168.19.160 - - [12/Dec/2023 10:19:55] "GET /socket.io/?EIO=4&transport=polling&t=OnVGSLS&sid=rXJ-NjEFwgMXiMCRAAAB HTTP/1.1" 200 236 0.011998
+(20648) accepted ('192.168.19.160', 51510)
+192.168.19.160 - - [12/Dec/2023 10:20:22] "GET /socket.io/?EIO=4&transport=websocket&sid=rXJ-NjEFwgMXiMCRAAAB HTTP/1.1" 200 0 26.994482
+(20648) accepted ('192.168.19.160', 51549)
+192.168.19.160 - - [12/Dec/2023 10:20:22] "GET /socket.io/?EIO=4&transport=polling&t=OnVGYy_ HTTP/1.1" 200 333 0.000000
+192.168.19.160 - - [12/Dec/2023 10:20:22] "POST /socket.io/?EIO=4&transport=polling&t=OnVGYz9&sid=kFCJwsCHk8W_w6nPAAAE HTTP/1.1" 200 222 0.000971
+(20648) accepted ('192.168.19.160', 51550)
+192.168.19.160 - - [12/Dec/2023 10:20:22] "GET /socket.io/?EIO=4&transport=polling&t=OnVGYzC&sid=kFCJwsCHk8W_w6nPAAAE HTTP/1.1" 200 277 0.000000
+192.168.19.160 - - [12/Dec/2023 10:20:22] "GET /socket.io/?EIO=4&transport=polling&t=OnVGYzK&sid=kFCJwsCHk8W_w6nPAAAE HTTP/1.1" 200 236 0.000000
+ * Detected change in 'E:\\LiveChatVersionControlled\\Live-chatApp-Admin-Panel-SocketIo\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+Starting live chat server...
+Traceback (most recent call last):
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\connection_cext.py", line 308, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Can't connect to MySQL server on '127.0.0.1:3306' (10061)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "app.py", line 17, in <module>
+    db = mysql.connector.connect(
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\pooling.py", line 293, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\connection_cext.py", line 129, in __init__
+    self.connect(**kwargs)
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\abstracts.py", line 1237, in connect
+    self._open_connection()
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\connection_cext.py", line 313, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 2003 (HY000): Can't connect to MySQL server on '127.0.0.1:3306' (10061)
+Starting live chat server...
+Traceback (most recent call last):
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\connection_cext.py", line 308, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Can't connect to MySQL server on '127.0.0.1:3306' (10061)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "app.py", line 17, in <module>
+    db = mysql.connector.connect(
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\pooling.py", line 293, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\connection_cext.py", line 129, in __init__
+    self.connect(**kwargs)
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\abstracts.py", line 1237, in connect
+    self._open_connection()
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\connection_cext.py", line 313, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 2003 (HY000): Can't connect to MySQL server on '127.0.0.1:3306' (10061)
+Starting live chat server...
+Traceback (most recent call last):
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\connection_cext.py", line 308, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Can't connect to MySQL server on '127.0.0.1:3306' (10061)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "app.py", line 17, in <module>
+    db = mysql.connector.connect(
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\pooling.py", line 293, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\connection_cext.py", line 129, in __init__
+    self.connect(**kwargs)
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\abstracts.py", line 1237, in connect
+    self._open_connection()
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\connection_cext.py", line 313, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 2003 (HY000): Can't connect to MySQL server on '127.0.0.1:3306' (10061)
+Starting live chat server...
+Traceback (most recent call last):
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\connection_cext.py", line 308, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Can't connect to MySQL server on '127.0.0.1:3306' (10061)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "app.py", line 17, in <module>
+    db = mysql.connector.connect(
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\pooling.py", line 293, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\connection_cext.py", line 129, in __init__
+    self.connect(**kwargs)
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\abstracts.py", line 1237, in connect
+    self._open_connection()
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\connection_cext.py", line 313, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 2003 (HY000): Can't connect to MySQL server on '127.0.0.1:3306' (10061)
+Starting live chat server...
+Traceback (most recent call last):
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\connection_cext.py", line 308, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Can't connect to MySQL server on '127.0.0.1:3306' (10061)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "app.py", line 17, in <module>
+    db = mysql.connector.connect(
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\pooling.py", line 293, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\connection_cext.py", line 129, in __init__
+    self.connect(**kwargs)
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\abstracts.py", line 1237, in connect
+    self._open_connection()
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\mysql\connector\connection_cext.py", line 313, in _open_connection
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 2003 (HY000): Can't connect to MySQL server on '127.0.0.1:3306' (10061)
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(2072) wsgi starting up on http://0.0.0.0:5009
+(2072) accepted ('192.168.88.13', 57766)
+192.168.88.13 - - [15/Dec/2023 19:02:37] "GET /socket.io/?EIO=4&transport=polling&t=OnmargL HTTP/1.1" 200 333 0.000000
+192.168.88.13 - - [15/Dec/2023 19:02:37] "POST /socket.io/?EIO=4&transport=polling&t=OnmarwG&sid=8nSZe7NcSbtcP7yuAAAA HTTP/1.1" 200 222 0.000000
+(2072) accepted ('192.168.88.13', 57769)
+(2072) accepted ('192.168.88.13', 57768)
+192.168.88.13 - - [15/Dec/2023 19:02:37] "GET /socket.io/?EIO=4&transport=polling&t=OnmarwH&sid=8nSZe7NcSbtcP7yuAAAA HTTP/1.1" 200 277 0.000000
+192.168.88.13 - - [15/Dec/2023 19:02:37] "GET /socket.io/?EIO=4&transport=polling&t=OnmarwP&sid=8nSZe7NcSbtcP7yuAAAA HTTP/1.1" 200 236 0.000000
+192.168.88.13 - - [15/Dec/2023 19:02:37] "GET /socket.io/?EIO=4&transport=polling&t=OnmarwZ&sid=8nSZe7NcSbtcP7yuAAAA HTTP/1.1" 200 236 0.000000
+(2072) accepted ('192.168.88.13', 57767)
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(2756) wsgi starting up on http://0.0.0.0:5009
+(2756) accepted ('192.168.19.160', 63504)
+192.168.19.160 - - [18/Dec/2023 10:02:00] "GET /socket.io/?EIO=4&transport=polling&t=On-5uPj HTTP/1.1" 200 333 0.001001
+192.168.19.160 - - [18/Dec/2023 10:02:00] "POST /socket.io/?EIO=4&transport=polling&t=On-5uPz&sid=MhrY_RGE-mxoHdsrAAAA HTTP/1.1" 200 222 0.000999
+(2756) accepted ('192.168.19.160', 63505)
+192.168.19.160 - - [18/Dec/2023 10:02:00] "GET /socket.io/?EIO=4&transport=polling&t=On-5uQ1&sid=MhrY_RGE-mxoHdsrAAAA HTTP/1.1" 200 236 0.000998
+192.168.19.160 - - [18/Dec/2023 10:02:00] "GET /socket.io/?EIO=4&transport=polling&t=On-5uQ7&sid=MhrY_RGE-mxoHdsrAAAA HTTP/1.1" 200 236 0.001026
+192.168.19.160 - - [18/Dec/2023 10:02:00] "GET /socket.io/?EIO=4&transport=websocket&sid=MhrY_RGE-mxoHdsrAAAA HTTP/1.1" 200 0 0.628798
+(2756) accepted ('192.168.19.160', 50968)
+192.168.19.160 - - [18/Dec/2023 11:02:37] "GET /socket.io/?EIO=4&transport=polling&t=On-JmQL HTTP/1.1" 200 333 0.000999
+192.168.19.160 - - [18/Dec/2023 11:02:37] "POST /socket.io/?EIO=4&transport=polling&t=On-JmQZ&sid=hqCVtjXiVKjZhe52AAAC HTTP/1.1" 200 222 0.000000
+(2756) accepted ('192.168.19.160', 50969)
+192.168.19.160 - - [18/Dec/2023 11:02:37] "GET /socket.io/?EIO=4&transport=polling&t=On-JmQd&sid=hqCVtjXiVKjZhe52AAAC HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [18/Dec/2023 11:02:37] "GET /socket.io/?EIO=4&transport=polling&t=On-JmQl&sid=hqCVtjXiVKjZhe52AAAC HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [18/Dec/2023 11:04:19] "GET /socket.io/?EIO=4&transport=websocket&sid=hqCVtjXiVKjZhe52AAAC HTTP/1.1" 200 0 102.272536
+192.168.19.160 - - [18/Dec/2023 11:04:19] "GET /socket.io/?EIO=4&transport=polling&t=On-K9RN HTTP/1.1" 200 333 0.001000
+192.168.19.160 - - [18/Dec/2023 11:04:19] "POST /socket.io/?EIO=4&transport=polling&t=On-K9RX&sid=7PMMsOCWE0jz0bYpAAAE HTTP/1.1" 200 222 0.000999
+(2756) accepted ('192.168.19.160', 51074)
+192.168.19.160 - - [18/Dec/2023 11:04:19] "GET /socket.io/?EIO=4&transport=polling&t=On-K9Ra&sid=7PMMsOCWE0jz0bYpAAAE HTTP/1.1" 200 236 0.000970
+(2756) accepted ('192.168.19.160', 52372)
+192.168.19.160 - - [18/Dec/2023 11:26:12] "GET /socket.io/?EIO=4&transport=polling&t=On-P9uB HTTP/1.1" 200 333 0.001001
+192.168.19.160 - - [18/Dec/2023 11:26:12] "POST /socket.io/?EIO=4&transport=polling&t=On-P9uN&sid=qigSgpz3aLvV73RvAAAG HTTP/1.1" 200 222 0.001003
+(2756) accepted ('192.168.19.160', 52373)
+192.168.19.160 - - [18/Dec/2023 11:26:12] "GET /socket.io/?EIO=4&transport=polling&t=On-P9uR&sid=qigSgpz3aLvV73RvAAAG HTTP/1.1" 200 236 0.000998
+192.168.19.160 - - [18/Dec/2023 11:26:12] "GET /socket.io/?EIO=4&transport=polling&t=On-P9ub&sid=qigSgpz3aLvV73RvAAAG HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [18/Dec/2023 11:27:55] "GET /socket.io/?EIO=4&transport=websocket&sid=qigSgpz3aLvV73RvAAAG HTTP/1.1" 200 0 102.730614
+(2756) accepted ('192.168.19.160', 53256)
+192.168.19.160 - - [18/Dec/2023 11:40:07] "GET /socket.io/?EIO=4&transport=polling&t=On-SLgo HTTP/1.1" 200 330 0.001000
+192.168.19.160 - - [18/Dec/2023 11:40:07] "POST /socket.io/?EIO=4&transport=polling&t=On-SLg-&sid=z16unco0EGW23k2tAAAI HTTP/1.1" 200 219 0.000999
+(2756) accepted ('192.168.19.160', 53257)
+192.168.19.160 - - [18/Dec/2023 11:40:07] "GET /socket.io/?EIO=4&transport=polling&t=On-SLh2&sid=z16unco0EGW23k2tAAAI HTTP/1.1" 200 233 0.000000
+192.168.19.160 - - [18/Dec/2023 11:40:07] "GET /socket.io/?EIO=4&transport=polling&t=On-SLh9&sid=z16unco0EGW23k2tAAAI HTTP/1.1" 200 233 0.000000
+192.168.19.160 - - [18/Dec/2023 11:41:54] "GET /socket.io/?EIO=4&transport=polling&t=On-SlwP HTTP/1.1" 200 333 0.001000
+192.168.19.160 - - [18/Dec/2023 11:41:54] "POST /socket.io/?EIO=4&transport=polling&t=On-SlwZ&sid=UGH7E1l8OQ3ceHWIAAAK HTTP/1.1" 200 222 0.000000
+(2756) accepted ('192.168.19.160', 53366)
+192.168.19.160 - - [18/Dec/2023 11:41:54] "GET /socket.io/?EIO=4&transport=polling&t=On-Slwc&sid=UGH7E1l8OQ3ceHWIAAAK HTTP/1.1" 200 236 0.000998
+192.168.19.160 - - [18/Dec/2023 11:41:54] "GET /socket.io/?EIO=4&transport=polling&t=On-Slwj&sid=UGH7E1l8OQ3ceHWIAAAK HTTP/1.1" 200 236 0.000994
+192.168.19.160 - - [18/Dec/2023 11:41:56] "GET /socket.io/?EIO=4&transport=websocket&sid=UGH7E1l8OQ3ceHWIAAAK HTTP/1.1" 200 0 2.260356
+192.168.19.160 - - [18/Dec/2023 11:41:57] "GET /socket.io/?EIO=4&transport=websocket&sid=z16unco0EGW23k2tAAAI HTTP/1.1" 200 0 110.289468
+192.168.19.160 - - [18/Dec/2023 11:42:00] "GET /socket.io/?EIO=4&transport=polling&t=On-SnQL HTTP/1.1" 200 333 0.000000
+192.168.19.160 - - [18/Dec/2023 11:42:00] "POST /socket.io/?EIO=4&transport=polling&t=On-SnQU&sid=hCrzL6l8c1OYgJIjAAAM HTTP/1.1" 200 222 0.001029
+(2756) accepted ('192.168.19.160', 53372)
+192.168.19.160 - - [18/Dec/2023 11:42:00] "GET /socket.io/?EIO=4&transport=polling&t=On-SnQY&sid=hCrzL6l8c1OYgJIjAAAM HTTP/1.1" 200 236 0.000999
+192.168.19.160 - - [18/Dec/2023 11:42:00] "GET /socket.io/?EIO=4&transport=polling&t=On-SnQh&sid=hCrzL6l8c1OYgJIjAAAM HTTP/1.1" 200 236 0.000000
+Terminate batch job (Y/N)? Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(18536) wsgi starting up on http://0.0.0.0:5009
+(18536) accepted ('192.168.19.160', 53513)
+(18536) accepted ('192.168.19.160', 53514)
+192.168.19.160 - - [18/Dec/2023 11:44:19] "GET /socket.io/?EIO=4&transport=polling&t=On-TJOI HTTP/1.1" 200 333 0.000998
+192.168.19.160 - - [18/Dec/2023 11:44:20] "GET /socket.io/?EIO=4&transport=polling&t=On-TJOH HTTP/1.1" 200 333 0.001000
+192.168.19.160 - - [18/Dec/2023 11:44:20] "POST /socket.io/?EIO=4&transport=polling&t=On-TJOX&sid=rbCoowA_xa2X1jnCAAAA HTTP/1.1" 200 222 0.001000
+192.168.19.160 - - [18/Dec/2023 11:44:20] "POST /socket.io/?EIO=4&transport=polling&t=On-TJOY&sid=l9JsG4fCCO3QcR1iAAAB HTTP/1.1" 200 222 0.001028
+(18536) accepted ('192.168.19.160', 53515)
+192.168.19.160 - - [18/Dec/2023 11:44:20] "GET /socket.io/?EIO=4&transport=polling&t=On-TJOa&sid=l9JsG4fCCO3QcR1iAAAB HTTP/1.1" 200 277 0.000000
+192.168.19.160 - - [18/Dec/2023 11:44:20] "GET /socket.io/?EIO=4&transport=polling&t=On-TJOa&sid=rbCoowA_xa2X1jnCAAAA HTTP/1.1" 200 236 0.000000
+(18536) accepted ('192.168.19.160', 53516)
+192.168.19.160 - - [18/Dec/2023 11:44:20] "GET /socket.io/?EIO=4&transport=polling&t=On-TJOk&sid=l9JsG4fCCO3QcR1iAAAB HTTP/1.1" 200 236 0.012995
+192.168.19.160 - - [18/Dec/2023 11:46:46] "GET /socket.io/?EIO=4&transport=websocket&sid=l9JsG4fCCO3QcR1iAAAB HTTP/1.1" 200 0 146.715446
+192.168.19.160 - - [18/Dec/2023 11:46:46] "GET /socket.io/?EIO=4&transport=polling&t=On-TtFn HTTP/1.1" 200 333 0.000000
+192.168.19.160 - - [18/Dec/2023 11:46:46] "POST /socket.io/?EIO=4&transport=polling&t=On-TtFx&sid=FwyLkAL8duMI7kAjAAAE HTTP/1.1" 200 222 0.000998
+(18536) accepted ('192.168.19.160', 53673)
+192.168.19.160 - - [18/Dec/2023 11:46:46] "GET /socket.io/?EIO=4&transport=polling&t=On-TtF_&sid=FwyLkAL8duMI7kAjAAAE HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [18/Dec/2023 11:46:55] "GET /socket.io/?EIO=4&transport=websocket&sid=FwyLkAL8duMI7kAjAAAE HTTP/1.1" 200 0 8.911840
+192.168.19.160 - - [18/Dec/2023 11:46:55] "GET /socket.io/?EIO=4&transport=polling&t=On-TvTf HTTP/1.1" 200 333 0.000999
+192.168.19.160 - - [18/Dec/2023 11:46:55] "POST /socket.io/?EIO=4&transport=polling&t=On-TvTr&sid=OBxZx6AP0Qn0XmowAAAG HTTP/1.1" 200 222 0.000000
+(18536) accepted ('192.168.19.160', 53682)
+192.168.19.160 - - [18/Dec/2023 11:46:56] "GET /socket.io/?EIO=4&transport=polling&t=On-TvTu&sid=OBxZx6AP0Qn0XmowAAAG HTTP/1.1" 200 236 0.000000
+192.168.19.160 - - [18/Dec/2023 11:47:12] "GET /socket.io/?EIO=4&transport=websocket&sid=rbCoowA_xa2X1jnCAAAA HTTP/1.1" 200 0 172.366854
+192.168.19.160 - - [18/Dec/2023 11:49:58] "GET /socket.io/?EIO=4&transport=websocket&sid=OBxZx6AP0Qn0XmowAAAG HTTP/1.1" 200 0 182.039720
+(18536) accepted ('192.168.19.160', 54321)
+192.168.19.160 - - [18/Dec/2023 11:56:52] "GET /socket.io/?EIO=4&transport=polling&t=On-WB7L HTTP/1.1" 200 330 0.000000
+192.168.19.160 - - [18/Dec/2023 11:56:52] "POST /socket.io/?EIO=4&transport=polling&t=On-WB7X&sid=GCswbf_2-hySZXQRAAAI HTTP/1.1" 200 219 0.000999
+(18536) accepted ('192.168.19.160', 54322)
+192.168.19.160 - - [18/Dec/2023 11:56:52] "GET /socket.io/?EIO=4&transport=polling&t=On-WB7a&sid=GCswbf_2-hySZXQRAAAI HTTP/1.1" 200 233 0.000999
+192.168.19.160 - - [18/Dec/2023 11:56:52] "GET /socket.io/?EIO=4&transport=polling&t=On-WB7h&sid=GCswbf_2-hySZXQRAAAI HTTP/1.1" 200 233 0.000000
+(18536) accepted ('192.168.19.160', 54335)
+192.168.19.160 - - [18/Dec/2023 11:59:10] "GET /socket.io/?EIO=4&transport=polling&t=On-Wiqu HTTP/1.1" 200 330 0.000973
+192.168.19.160 - - [18/Dec/2023 11:59:10] "POST /socket.io/?EIO=4&transport=polling&t=On-Wir8&sid=9WDtWBaLlCkfdZULAAAK HTTP/1.1" 200 219 0.000998
+(18536) accepted ('192.168.19.160', 54466)
+192.168.19.160 - - [18/Dec/2023 11:59:10] "GET /socket.io/?EIO=4&transport=polling&t=On-WirC&sid=9WDtWBaLlCkfdZULAAAK HTTP/1.1" 200 233 0.000994
+192.168.19.160 - - [18/Dec/2023 11:59:10] "GET /socket.io/?EIO=4&transport=polling&t=On-WirK&sid=9WDtWBaLlCkfdZULAAAK HTTP/1.1" 200 233 0.001000
+192.168.19.160 - - [18/Dec/2023 11:59:12] "GET /socket.io/?EIO=4&transport=websocket&sid=9WDtWBaLlCkfdZULAAAK HTTP/1.1" 200 0 1.485529
+(18536) accepted ('192.168.19.160', 54502)
+192.168.19.160 - - [18/Dec/2023 11:59:36] "GET /socket.io/?EIO=4&transport=polling&t=On-WpDt HTTP/1.1" 200 325 0.001000
+192.168.19.160 - - [18/Dec/2023 11:59:36] "POST /socket.io/?EIO=4&transport=polling&t=On-WpE2&sid=7lBRVtjf2WwaqG2QAAAM HTTP/1.1" 200 214 0.001001
+(18536) accepted ('192.168.19.160', 54503)
+192.168.19.160 - - [18/Dec/2023 11:59:36] "GET /socket.io/?EIO=4&transport=polling&t=On-WpE6&sid=7lBRVtjf2WwaqG2QAAAM HTTP/1.1" 200 228 0.000998
+192.168.19.160 - - [18/Dec/2023 11:59:36] "GET /socket.io/?EIO=4&transport=polling&t=On-WpEC&sid=7lBRVtjf2WwaqG2QAAAM HTTP/1.1" 200 228 0.000990
+192.168.19.160 - - [18/Dec/2023 12:00:47] "GET /socket.io/?EIO=4&transport=websocket&sid=7lBRVtjf2WwaqG2QAAAM HTTP/1.1" 200 0 70.517196
+192.168.19.160 - - [18/Dec/2023 12:01:40] "GET /socket.io/?EIO=4&transport=websocket&sid=GCswbf_2-hySZXQRAAAI HTTP/1.1" 200 0 288.254790
+Terminate batch job (Y/N)? Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(10596) wsgi starting up on http://0.0.0.0:5009
+Terminate batch job (Y/N)? Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(1976) wsgi starting up on http://0.0.0.0:5009
+(1976) accepted ('127.0.0.1', 63432)
+(1976) accepted ('127.0.0.1', 63433)
+127.0.0.1 - - [08/Jan/2024 11:25:44] "GET / HTTP/1.1" 200 3454 0.116933
+127.0.0.1 - - [08/Jan/2024 11:25:44] "GET /static/main.css HTTP/1.1" 304 277 0.004998
+127.0.0.1 - - [08/Jan/2024 11:25:44] "GET /static/script.js HTTP/1.1" 304 277 0.002999
+(1976) accepted ('127.0.0.1', 63435)
+(1976) accepted ('192.168.19.160', 63436)
+192.168.19.160 - - [08/Jan/2024 11:25:44] "GET /socket.io/?EIO=4&transport=polling&t=OpgYRnt HTTP/1.1" 200 330 0.001001
+127.0.0.1 - - [08/Jan/2024 11:25:44] "GET /favicon.ico HTTP/1.1" 404 412 0.001033
+192.168.19.160 - - [08/Jan/2024 11:25:44] "POST /socket.io/?EIO=4&transport=polling&t=OpgYRoK&sid=H7OJod8NpQQibzigAAAA HTTP/1.1" 200 219 0.000973
+(1976) accepted ('192.168.19.160', 63437)
+192.168.19.160 - - [08/Jan/2024 11:25:44] "GET /socket.io/?EIO=4&transport=polling&t=OpgYRoO&sid=H7OJod8NpQQibzigAAAA HTTP/1.1" 200 233 0.000000
+Traceback (most recent call last):
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\mysql\connector\connection_cext.py", line 639, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Lost connection to MySQL server during query
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\LiveChatVersionControlled\Live-chatApp-Admin-Panel-SocketIo\app.py", line 35, in admin
+    cursor.execute("SELECT room, username FROM live_chat_users")
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\mysql\connector\cursor_cext.py", line 330, in execute
+    result = self._cnx.cmd_query(
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\mysql\connector\connection_cext.py", line 647, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.OperationalError: 2013 (HY000): Lost connection to MySQL server during query
+127.0.0.1 - - [08/Jan/2024 11:25:53] "GET /admin HTTP/1.1" 500 30530 1.203593
+(1976) accepted ('127.0.0.1', 63449)
+(1976) accepted ('127.0.0.1', 63455)
+(1976) accepted ('127.0.0.1', 63456)
+(1976) accepted ('127.0.0.1', 63457)
+127.0.0.1 - - [08/Jan/2024 11:25:53] "GET /admin?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 6745 0.145952
+127.0.0.1 - - [08/Jan/2024 11:25:54] "GET /admin?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 88301 0.463886
+(1976) accepted ('127.0.0.1', 63458)
+127.0.0.1 - - [08/Jan/2024 11:25:54] "GET /admin?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 6555 0.165948
+127.0.0.1 - - [08/Jan/2024 11:25:54] "GET /admin?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 633 0.037021
+127.0.0.1 - - [08/Jan/2024 11:25:54] "GET /admin?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 70363 0.020023
+127.0.0.1 - - [08/Jan/2024 11:25:54] "GET /admin?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 633 0.001030
+(1976) accepted ('127.0.0.1', 63489)
+127.0.0.1 - - [08/Jan/2024 11:26:15] "GET /admin?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 6745 0.001999
+(1976) accepted ('127.0.0.1', 63492)
+192.168.19.160 - - [08/Jan/2024 15:55:05] "GET /socket.io/?EIO=4&transport=websocket&sid=H7OJod8NpQQibzigAAAA HTTP/1.1" 200 0 16160.912910
+(1976) accepted ('127.0.0.1', 64158)
+127.0.0.1 - - [08/Jan/2024 16:59:31] "GET / HTTP/1.1" 200 3454 0.012996
+(1976) accepted ('127.0.0.1', 64159)
+(1976) accepted ('127.0.0.1', 64160)
+(1976) accepted ('192.168.19.160', 64161)
+192.168.19.160 - - [08/Jan/2024 16:59:32] "GET /socket.io/?EIO=4&transport=polling&t=OphkrML HTTP/1.1" 200 330 0.000000
+192.168.19.160 - - [08/Jan/2024 16:59:32] "POST /socket.io/?EIO=4&transport=polling&t=OphkrMe&sid=hAgZaJl9Q5k6uP3_AAAC HTTP/1.1" 200 219 0.000999
+(1976) accepted ('192.168.19.160', 64162)
+192.168.19.160 - - [08/Jan/2024 16:59:32] "GET /socket.io/?EIO=4&transport=polling&t=OphkrMl&sid=hAgZaJl9Q5k6uP3_AAAC HTTP/1.1" 200 233 0.000000
+192.168.19.160 - - [08/Jan/2024 16:59:55] "GET /socket.io/?EIO=4&transport=websocket&sid=hAgZaJl9Q5k6uP3_AAAC HTTP/1.1" 200 0 22.865734
+127.0.0.1 - - [08/Jan/2024 16:59:55] "GET / HTTP/1.1" 200 3454 0.003030
+192.168.19.160 - - [08/Jan/2024 16:59:55] "GET /socket.io/?EIO=4&transport=polling&t=Ophkw_d HTTP/1.1" 200 330 0.001000
+(1976) accepted ('192.168.19.160', 64181)
+192.168.19.160 - - [08/Jan/2024 16:59:55] "POST /socket.io/?EIO=4&transport=polling&t=Ophkw_o&sid=H2wzG8zsGpHd4eqEAAAE HTTP/1.1" 200 219 0.000999
+(1976) accepted ('192.168.19.160', 64182)
+192.168.19.160 - - [08/Jan/2024 16:59:55] "GET /socket.io/?EIO=4&transport=polling&t=Ophkw_s&sid=H2wzG8zsGpHd4eqEAAAE HTTP/1.1" 200 233 0.000000
+Traceback (most recent call last):
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\mysql\connector\connection_cext.py", line 639, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Lost connection to MySQL server during query
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\LiveChatVersionControlled\Live-chatApp-Admin-Panel-SocketIo\app.py", line 35, in admin
+    cursor.execute("SELECT room, username FROM live_chat_users")
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\mysql\connector\cursor_cext.py", line 330, in execute
+    result = self._cnx.cmd_query(
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\mysql\connector\connection_cext.py", line 647, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.OperationalError: 2013 (HY000): Lost connection to MySQL server during query
+127.0.0.1 - - [08/Jan/2024 17:00:38] "GET /admin HTTP/1.1" 500 30530 0.247922
+(1976) accepted ('127.0.0.1', 64229)
+127.0.0.1 - - [08/Jan/2024 17:00:38] "GET /admin?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 6745 0.074976
+127.0.0.1 - - [08/Jan/2024 17:00:39] "GET /admin?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 88301 0.178945
+127.0.0.1 - - [08/Jan/2024 17:00:39] "GET /admin?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 6555 0.071976
+(1976) accepted ('127.0.0.1', 64232)
+127.0.0.1 - - [08/Jan/2024 17:00:39] "GET /admin?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 633 0.014996
+127.0.0.1 - - [08/Jan/2024 17:00:39] "GET /admin?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 70363 0.016995
+An error has occurred: 2013 (HY000): Lost connection to MySQL server during query
+An error has occurred: ''
+Terminate batch job (Y/N)? Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(4704) wsgi starting up on http://0.0.0.0:5009
+(4704) accepted ('192.168.19.160', 64314)
+192.168.19.160 - - [08/Jan/2024 17:01:41] "GET /socket.io/?EIO=4&transport=polling&t=OphlKu2 HTTP/1.1" 200 330 0.000999
+(4704) accepted ('192.168.19.160', 64315)
+192.168.19.160 - - [08/Jan/2024 17:01:41] "POST /socket.io/?EIO=4&transport=polling&t=OphlKuI&sid=muWKtNEML8STzr6UAAAA HTTP/1.1" 200 219 0.000996
+(4704) accepted ('192.168.19.160', 64316)
+192.168.19.160 - - [08/Jan/2024 17:01:41] "GET /socket.io/?EIO=4&transport=polling&t=OphlKuL&sid=muWKtNEML8STzr6UAAAA HTTP/1.1" 200 233 0.000000
+(4704) accepted ('127.0.0.1', 64321)
+(4704) accepted ('127.0.0.1', 64322)
+127.0.0.1 - - [08/Jan/2024 17:01:41] "GET /admin HTTP/1.1" 200 4602 0.043986
+192.168.19.160 - - [08/Jan/2024 17:01:41] "GET /socket.io/?EIO=4&transport=polling&t=OphlL3c HTTP/1.1" 200 330 0.001000
+192.168.19.160 - - [08/Jan/2024 17:01:42] "POST /socket.io/?EIO=4&transport=polling&t=OphlL3n&sid=X3tMk-tEUESTjMfkAAAC HTTP/1.1" 200 219 0.000000
+(4704) accepted ('192.168.19.160', 64323)
+192.168.19.160 - - [08/Jan/2024 17:01:42] "GET /socket.io/?EIO=4&transport=polling&t=OphlL3r&sid=X3tMk-tEUESTjMfkAAAC HTTP/1.1" 200 233 0.000000
+(4704) accepted ('127.0.0.1', 64324)
+192.168.19.160 - - [08/Jan/2024 17:01:51] "GET /socket.io/?EIO=4&transport=websocket&sid=muWKtNEML8STzr6UAAAA HTTP/1.1" 200 0 10.429690
+127.0.0.1 - - [08/Jan/2024 17:01:51] "GET / HTTP/1.1" 200 3454 0.035988
+192.168.19.160 - - [08/Jan/2024 17:01:51] "GET /socket.io/?EIO=4&transport=polling&t=OphlNV3 HTTP/1.1" 200 330 0.000000
+(4704) accepted ('192.168.19.160', 64334)
+192.168.19.160 - - [08/Jan/2024 17:01:51] "GET /socket.io/?EIO=4&transport=polling&t=OphlNVL&sid=DBNNlPNbyW702kloAAAE HTTP/1.1" 200 233 0.001000
+192.168.19.160 - - [08/Jan/2024 17:01:51] "POST /socket.io/?EIO=4&transport=polling&t=OphlNVI&sid=DBNNlPNbyW702kloAAAE HTTP/1.1" 200 219 0.000999
+192.168.19.160 - - [08/Jan/2024 17:02:01] "GET /socket.io/?EIO=4&transport=websocket&sid=X3tMk-tEUESTjMfkAAAC HTTP/1.1" 200 0 19.085955
+127.0.0.1 - - [08/Jan/2024 17:02:01] "GET /admin HTTP/1.1" 200 4742 0.002999
+192.168.19.160 - - [08/Jan/2024 17:02:01] "GET /socket.io/?EIO=4&transport=polling&t=OphlPlJ HTTP/1.1" 200 330 0.000999
+192.168.19.160 - - [08/Jan/2024 17:02:01] "POST /socket.io/?EIO=4&transport=polling&t=OphlPlT&sid=iGb3MiNi4SmP8qDhAAAG HTTP/1.1" 200 219 0.001001
+(4704) accepted ('192.168.19.160', 64345)
+192.168.19.160 - - [08/Jan/2024 17:02:01] "GET /socket.io/?EIO=4&transport=polling&t=OphlPlW&sid=iGb3MiNi4SmP8qDhAAAG HTTP/1.1" 200 233 0.000000
+192.168.19.160 - - [08/Jan/2024 17:03:13] "GET /socket.io/?EIO=4&transport=websocket&sid=iGb3MiNi4SmP8qDhAAAG HTTP/1.1" 200 0 72.066189
+127.0.0.1 - - [08/Jan/2024 17:03:13] "GET /admin HTTP/1.1" 200 4742 0.002000
+192.168.19.160 - - [08/Jan/2024 17:03:13] "GET /socket.io/?EIO=4&transport=polling&t=OphlhOu HTTP/1.1" 200 330 0.001000
+192.168.19.160 - - [08/Jan/2024 17:03:13] "POST /socket.io/?EIO=4&transport=polling&t=OphlhP6&sid=HOTiJNftLLVABQfeAAAI HTTP/1.1" 200 219 0.001000
+(4704) accepted ('192.168.19.160', 64421)
+192.168.19.160 - - [08/Jan/2024 17:03:13] "GET /socket.io/?EIO=4&transport=polling&t=OphlhP9&sid=HOTiJNftLLVABQfeAAAI HTTP/1.1" 200 233 0.000000
+192.168.19.160 - - [08/Jan/2024 17:03:13] "GET /socket.io/?EIO=4&transport=polling&t=OphlhPI&sid=HOTiJNftLLVABQfeAAAI HTTP/1.1" 200 233 0.000000
+(4704) accepted ('127.0.0.1', 64422)
+192.168.19.160 - - [08/Jan/2024 17:04:12] "GET /socket.io/?EIO=4&transport=websocket&sid=HOTiJNftLLVABQfeAAAI HTTP/1.1" 200 0 58.838400
+192.168.19.160 - - [08/Jan/2024 17:04:16] "GET /socket.io/?EIO=4&transport=websocket&sid=DBNNlPNbyW702kloAAAE HTTP/1.1" 200 0 144.543298
+(4704) accepted ('192.168.19.160', 58930)
+(4704) accepted ('192.168.19.160', 58931)
+192.168.19.160 - - [12/Jan/2024 09:17:34] "GET / HTTP/1.1" 200 3454 0.158923
+192.168.19.160 - - [12/Jan/2024 09:17:35] "GET /static/main.css HTTP/1.1" 200 2651 0.591817
+192.168.19.160 - - [12/Jan/2024 09:17:39] "GET /static/script.js HTTP/1.1" 200 4981 3.414924
+192.168.19.160 - - [12/Jan/2024 09:17:39] "GET /socket.io/?EIO=4&transport=polling&t=Op-hUWo HTTP/1.1" 200 278 0.001001
+192.168.19.160 - - [12/Jan/2024 09:17:39] "POST /socket.io/?EIO=4&transport=polling&t=Op-hUW-&sid=8wDED_52dPWoydWNAAAK HTTP/1.1" 200 224 0.000000
+(4704) accepted ('192.168.19.160', 58933)
+192.168.19.160 - - [12/Jan/2024 09:17:39] "GET /favicon.ico HTTP/1.1" 404 412 0.000998
+192.168.19.160 - - [12/Jan/2024 09:17:39] "GET /socket.io/?EIO=4&transport=polling&t=Op-hUX2&sid=8wDED_52dPWoydWNAAAK HTTP/1.1" 200 222 0.001000
+192.168.19.160 - - [12/Jan/2024 09:17:39] "GET /socket.io/?EIO=4&transport=polling&t=Op-hUXG&sid=8wDED_52dPWoydWNAAAK HTTP/1.1" 200 181 0.000000
+(4704) accepted ('192.168.19.160', 58936)
+(4704) accepted ('192.168.19.160', 58937)
+Traceback (most recent call last):
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\eventlet\wsgi.py", line 596, in handle_one_response
+    write(b''.join(towrite))
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\eventlet\wsgi.py", line 532, in write
+    wfile.writelines(towrite)
+  File "C:\Users\Administrator\anaconda3\envs\rasa1\lib\socket.py", line 687, in write
+    return self._sock.send(b)
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\eventlet\greenio\base.py", line 401, in send
+    return self._send_loop(self.fd.send, data, flags)
+  File "E:\LiveChatVersionControlled\livechat\lib\site-packages\eventlet\greenio\base.py", line 388, in _send_loop
+    return send_method(data, *args)
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+
+192.168.19.160 - - [12/Jan/2024 09:19:34] "GET /admin HTTP/1.1" 500 0 112.049695
+(4704) accepted ('192.168.19.160', 58949)
+(4704) accepted ('192.168.19.160', 58959)
+(4704) accepted ('192.168.19.160', 58961)
+(4704) accepted ('192.168.19.160', 58965)
+Traceback (most recent call last):
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\mysql\connector\connection_cext.py", line 639, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Lost connection to MySQL server during query
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\LiveChatVersionControlled\Live-chatApp-Admin-Panel-SocketIo\app.py", line 35, in admin
+    cursor.execute("SELECT room, username FROM live_chat_users")
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\mysql\connector\cursor_cext.py", line 330, in execute
+    result = self._cnx.cmd_query(
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\mysql\connector\connection_cext.py", line 647, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.OperationalError: 2013 (HY000): Lost connection to MySQL server during query
+192.168.19.160 - - [12/Jan/2024 09:19:45] "GET /admin HTTP/1.1" 500 30530 10.934524
+192.168.19.160 - - [12/Jan/2024 09:19:45] "GET /socket.io/?EIO=4&transport=polling&t=Op-hfm5 HTTP/1.1" 200 278 0.000000
+192.168.19.160 - - [12/Jan/2024 09:19:45] "GET /socket.io/?EIO=4&transport=websocket&sid=8wDED_52dPWoydWNAAAK HTTP/1.1" 200 0 126.162220
+192.168.19.160 - - [12/Jan/2024 09:19:45] "GET /socket.io/?EIO=4&transport=polling&t=Op-hlNU HTTP/1.1" 200 278 0.000000
+192.168.19.160 - - [12/Jan/2024 09:19:45] "GET /socket.io/?EIO=4&transport=polling&t=Op-hrES HTTP/1.1" 200 278 0.000000
+(4704) accepted ('192.168.19.160', 58975)
+(4704) accepted ('192.168.19.160', 58976)
+192.168.19.160 - - [12/Jan/2024 09:20:18] "GET /admin?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 88301 33.537427
+192.168.19.160 - - [12/Jan/2024 09:20:18] "GET /socket.io/?EIO=4&transport=polling&t=Op-hxqL HTTP/1.1" 200 278 0.000000
+192.168.19.160 - - [12/Jan/2024 09:20:21] "GET /admin?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 6745 2.324299
+192.168.19.160 - - [12/Jan/2024 09:20:23] "GET /admin?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 6555 2.410247
+(4704) accepted ('192.168.19.160', 58977)
+192.168.19.160 - - [12/Jan/2024 09:20:23] "GET /socket.io/?EIO=4&transport=polling&t=Op-i2QF HTTP/1.1" 200 278 0.001002
+192.168.19.160 - - [12/Jan/2024 09:20:23] "POST /socket.io/?EIO=4&transport=polling&t=Op-i6gh&sid=QWrGvNFM7JroYJ7pAAAQ HTTP/1.1" 200 224 0.000999
+(4704) accepted ('192.168.19.160', 58983)
+192.168.19.160 - - [12/Jan/2024 09:20:23] "GET /socket.io/?EIO=4&transport=polling&t=Op-i6gj&sid=QWrGvNFM7JroYJ7pAAAQ HTTP/1.1" 200 181 0.001000
+(4704) accepted ('192.168.19.160', 58984)
+192.168.19.160 - - [12/Jan/2024 09:20:25] "GET /admin?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 70363 1.478565
+(4704) accepted ('192.168.19.160', 58985)
+192.168.19.160 - - [12/Jan/2024 09:20:25] "GET /admin?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 633 0.015996
+192.168.19.160 - - [12/Jan/2024 09:20:25] "GET /admin?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 633 0.001975
+(4704) accepted ('192.168.19.160', 59006)
+(4704) accepted ('192.168.19.160', 59007)
+Traceback (most recent call last):
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\mysql\connector\connection_cext.py", line 639, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Lost connection to MySQL server during query
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 2450, in wsgi_app
+    response = self.handle_exception(e)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1867, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "E:\LiveChatVersionControlled\Live-chatApp-Admin-Panel-SocketIo\app.py", line 35, in admin
+    cursor.execute("SELECT room, username FROM live_chat_users")
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\mysql\connector\cursor_cext.py", line 330, in execute
+    result = self._cnx.cmd_query(
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "E:\LiveChatVersionControlled\livechat\Lib\site-packages\mysql\connector\connection_cext.py", line 647, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.OperationalError: 2013 (HY000): Lost connection to MySQL server during query
+192.168.19.160 - - [12/Jan/2024 09:21:23] "GET /admin HTTP/1.1" 500 30530 0.023990
+192.168.19.160 - - [12/Jan/2024 09:21:23] "GET /admin?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 6745 0.002001
+(4704) accepted ('192.168.19.160', 59008)
+192.168.19.160 - - [12/Jan/2024 09:21:23] "GET /admin?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 88301 0.001999
+192.168.19.160 - - [12/Jan/2024 09:21:23] "GET /admin?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 6555 0.002000
+192.168.19.160 - - [12/Jan/2024 09:21:23] "GET /admin?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 633 0.001999
+192.168.19.160 - - [12/Jan/2024 09:21:23] "GET /admin?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 70363 0.001999
+(4704) accepted ('192.168.19.160', 59009)
+192.168.19.160 - - [12/Jan/2024 09:21:23] "GET /admin?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 633 0.002000
+Terminate batch job (Y/N)? Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(12096) wsgi starting up on http://0.0.0.0:5009
+(12096) accepted ('192.168.19.160', 59093)
+(12096) accepted ('192.168.19.160', 59094)
+192.168.19.160 - - [12/Jan/2024 09:23:22] "GET /admin HTTP/1.1" 200 4244 1.141639
+192.168.19.160 - - [12/Jan/2024 09:23:23] "GET /socket.io/?EIO=4&transport=polling&t=Op-ioV7 HTTP/1.1" 200 278 0.000997
+192.168.19.160 - - [12/Jan/2024 09:23:23] "POST /socket.io/?EIO=4&transport=polling&t=Op-ioWV&sid=skVlC1HXceAEQ3jHAAAA HTTP/1.1" 200 224 0.002001
+(12096) accepted ('192.168.19.160', 59096)
+192.168.19.160 - - [12/Jan/2024 09:23:23] "GET /socket.io/?EIO=4&transport=polling&t=Op-ioWZ&sid=skVlC1HXceAEQ3jHAAAA HTTP/1.1" 200 181 0.000000
+192.168.19.160 - - [12/Jan/2024 09:23:23] "GET /socket.io/?EIO=4&transport=polling&t=Op-ioWj&sid=skVlC1HXceAEQ3jHAAAA HTTP/1.1" 200 181 0.000000
+192.168.19.160 - - [12/Jan/2024 09:23:34] "GET / HTTP/1.1" 200 3454 0.063978
+192.168.19.160 - - [12/Jan/2024 09:23:34] "GET /socket.io/?EIO=4&transport=polling&t=Op-irD- HTTP/1.1" 200 278 0.001002
+192.168.19.160 - - [12/Jan/2024 09:23:34] "POST /socket.io/?EIO=4&transport=polling&t=Op-irED&sid=NEOgXisJlktKpTmJAAAC HTTP/1.1" 200 224 0.000999
+(12096) accepted ('192.168.19.160', 59099)
+192.168.19.160 - - [12/Jan/2024 09:23:34] "GET /socket.io/?EIO=4&transport=polling&t=Op-irEH&sid=NEOgXisJlktKpTmJAAAC HTTP/1.1" 200 181 0.000000
+192.168.19.160 - - [12/Jan/2024 09:23:34] "GET /socket.io/?EIO=4&transport=polling&t=Op-irET&sid=NEOgXisJlktKpTmJAAAC HTTP/1.1" 200 181 0.000000
+192.168.19.160 - - [12/Jan/2024 09:23:53] "GET /socket.io/?EIO=4&transport=websocket&sid=skVlC1HXceAEQ3jHAAAA HTTP/1.1" 200 0 30.643346
+192.168.19.160 - - [12/Jan/2024 09:23:53] "GET /admin HTTP/1.1" 200 4388 0.003999
+192.168.19.160 - - [12/Jan/2024 09:23:54] "GET /socket.io/?EIO=4&transport=polling&t=Op-iw0p HTTP/1.1" 200 278 0.000000
+(12096) accepted ('192.168.19.160', 59104)
+192.168.19.160 - - [12/Jan/2024 09:23:54] "GET /socket.io/?EIO=4&transport=polling&t=Op-iw0y&sid=RWECCefM1VRbWnI5AAAE HTTP/1.1" 200 181 0.000000
+192.168.19.160 - - [12/Jan/2024 09:23:54] "POST /socket.io/?EIO=4&transport=polling&t=Op-iw0x&sid=RWECCefM1VRbWnI5AAAE HTTP/1.1" 200 224 0.001000
+192.168.19.160 - - [12/Jan/2024 09:23:54] "GET /socket.io/?EIO=4&transport=polling&t=Op-iw16&sid=RWECCefM1VRbWnI5AAAE HTTP/1.1" 200 181 0.001000
+(12096) accepted ('192.168.19.160', 59116)
+192.168.19.160 - - [12/Jan/2024 09:25:01] "GET / HTTP/1.1" 200 3454 0.001996
+(12096) accepted ('192.168.19.160', 59117)
+192.168.19.160 - - [12/Jan/2024 09:25:01] "GET /static/script.js HTTP/1.1" 200 4981 0.011987
+192.168.19.160 - - [12/Jan/2024 09:25:01] "GET /static/main.css HTTP/1.1" 200 2651 0.141927
+192.168.19.160 - - [12/Jan/2024 09:25:02] "GET /socket.io/?EIO=4&transport=polling&t=Op-jAkU HTTP/1.1" 200 278 0.000000
+192.168.19.160 - - [12/Jan/2024 09:25:02] "POST /socket.io/?EIO=4&transport=polling&t=Op-jAkd&sid=bciobqzTjW0y2QMIAAAG HTTP/1.1" 200 224 0.000994
+(12096) accepted ('192.168.19.160', 59122)
+192.168.19.160 - - [12/Jan/2024 09:25:02] "GET /socket.io/?EIO=4&transport=polling&t=Op-jAkg&sid=bciobqzTjW0y2QMIAAAG HTTP/1.1" 200 222 0.000000
+192.168.19.160 - - [12/Jan/2024 09:25:02] "GET /socket.io/?EIO=4&transport=polling&t=Op-jAkq&sid=bciobqzTjW0y2QMIAAAG HTTP/1.1" 200 181 0.001002
+192.168.19.160 - - [12/Jan/2024 09:25:02] "GET /socket.io/?EIO=4&transport=polling&t=Op-jAkv&sid=bciobqzTjW0y2QMIAAAG HTTP/1.1" 200 181 0.000000
+192.168.19.160 - - [12/Jan/2024 09:25:18] "GET /socket.io/?EIO=4&transport=websocket&sid=RWECCefM1VRbWnI5AAAE HTTP/1.1" 200 0 84.814288
+192.168.19.160 - - [12/Jan/2024 09:25:18] "GET /admin HTTP/1.1" 200 4528 0.002999
+192.168.19.160 - - [12/Jan/2024 09:25:18] "GET /socket.io/?EIO=4&transport=polling&t=Op-jElN HTTP/1.1" 200 278 0.001001
+192.168.19.160 - - [12/Jan/2024 09:25:18] "POST /socket.io/?EIO=4&transport=polling&t=Op-jElY&sid=DGdVNMjMNybwmN3qAAAI HTTP/1.1" 200 224 0.001002
+(12096) accepted ('192.168.19.160', 59132)
+192.168.19.160 - - [12/Jan/2024 09:25:18] "GET /socket.io/?EIO=4&transport=polling&t=Op-jElc&sid=DGdVNMjMNybwmN3qAAAI HTTP/1.1" 200 181 0.000000
+192.168.19.160 - - [12/Jan/2024 09:25:55] "GET /socket.io/?EIO=4&transport=websocket&sid=bciobqzTjW0y2QMIAAAG HTTP/1.1" 200 0 52.802346
+192.168.19.160 - - [12/Jan/2024 09:25:55] "GET / HTTP/1.1" 200 3454 0.002999
+192.168.19.160 - - [12/Jan/2024 09:25:55] "GET /socket.io/?EIO=4&transport=polling&t=Op-jNeq HTTP/1.1" 200 278 0.000998
+192.168.19.160 - - [12/Jan/2024 09:25:55] "POST /socket.io/?EIO=4&transport=polling&t=Op-jNev&sid=vbunY8mmgU_Q6i0qAAAK HTTP/1.1" 200 224 0.000997
+(12096) accepted ('192.168.19.160', 59138)
+192.168.19.160 - - [12/Jan/2024 09:25:55] "GET /socket.io/?EIO=4&transport=polling&t=Op-jNew&sid=vbunY8mmgU_Q6i0qAAAK HTTP/1.1" 200 222 0.001001
+192.168.19.160 - - [12/Jan/2024 09:25:55] "GET /socket.io/?EIO=4&transport=polling&t=Op-jNf3&sid=vbunY8mmgU_Q6i0qAAAK HTTP/1.1" 200 181 0.000000
+192.168.19.160 - - [12/Jan/2024 09:25:55] "GET /socket.io/?EIO=4&transport=polling&t=Op-jNf6&sid=vbunY8mmgU_Q6i0qAAAK HTTP/1.1" 200 181 0.000000
+192.168.19.160 - - [12/Jan/2024 09:26:07] "GET /socket.io/?EIO=4&transport=websocket&sid=DGdVNMjMNybwmN3qAAAI HTTP/1.1" 200 0 48.510723
+192.168.19.160 - - [12/Jan/2024 09:26:07] "GET /admin HTTP/1.1" 200 4672 0.004025
+192.168.19.160 - - [12/Jan/2024 09:26:07] "GET /socket.io/?EIO=4&transport=polling&t=Op-jQcy HTTP/1.1" 200 278 0.001002
+192.168.19.160 - - [12/Jan/2024 09:26:07] "POST /socket.io/?EIO=4&transport=polling&t=Op-jQd7&sid=9z2PLby3psaioyb5AAAM HTTP/1.1" 200 224 0.000975
+(12096) accepted ('192.168.19.160', 59147)
+192.168.19.160 - - [12/Jan/2024 09:26:07] "GET /socket.io/?EIO=4&transport=polling&t=Op-jQdD&sid=9z2PLby3psaioyb5AAAM HTTP/1.1" 200 181 0.000000
+192.168.19.160 - - [12/Jan/2024 09:31:09] "GET /socket.io/?EIO=4&transport=websocket&sid=vbunY8mmgU_Q6i0qAAAK HTTP/1.1" 200 0 314.145071
+(12096) accepted ('192.168.19.160', 59205)
+192.168.19.160 - - [12/Jan/2024 09:31:09] "GET / HTTP/1.1" 200 3454 0.001971
+192.168.19.160 - - [12/Jan/2024 09:31:09] "GET /socket.io/?EIO=4&transport=polling&t=Op-kaMK HTTP/1.1" 200 278 0.001030
+192.168.19.160 - - [12/Jan/2024 09:31:09] "POST /socket.io/?EIO=4&transport=polling&t=Op-kaMS&sid=80seI5yY7Gm1iq9xAAAO HTTP/1.1" 200 224 0.001001
+(12096) accepted ('192.168.19.160', 59206)
+192.168.19.160 - - [12/Jan/2024 09:31:09] "GET /socket.io/?EIO=4&transport=polling&t=Op-kaMV&sid=80seI5yY7Gm1iq9xAAAO HTTP/1.1" 200 222 0.000000
+192.168.19.160 - - [12/Jan/2024 09:31:09] "GET /socket.io/?EIO=4&transport=polling&t=Op-kaMd&sid=80seI5yY7Gm1iq9xAAAO HTTP/1.1" 200 181 0.000999
+192.168.19.160 - - [12/Jan/2024 09:31:11] "GET /socket.io/?EIO=4&transport=websocket&sid=80seI5yY7Gm1iq9xAAAO HTTP/1.1" 200 0 2.003364
+192.168.19.160 - - [12/Jan/2024 09:31:11] "GET / HTTP/1.1" 200 3454 0.002027
+192.168.19.160 - - [12/Jan/2024 09:31:11] "GET /socket.io/?EIO=4&transport=polling&t=Op-kasp HTTP/1.1" 200 278 0.001001
+192.168.19.160 - - [12/Jan/2024 09:31:11] "POST /socket.io/?EIO=4&transport=polling&t=Op-kasu&sid=KPMbkXzf4gDWULdKAAAQ HTTP/1.1" 200 224 0.001003
+(12096) accepted ('192.168.19.160', 59207)
+192.168.19.160 - - [12/Jan/2024 09:31:11] "GET /socket.io/?EIO=4&transport=polling&t=Op-kasw&sid=KPMbkXzf4gDWULdKAAAQ HTTP/1.1" 200 222 0.000000
+192.168.19.160 - - [12/Jan/2024 09:31:11] "GET /socket.io/?EIO=4&transport=polling&t=Op-kat2&sid=KPMbkXzf4gDWULdKAAAQ HTTP/1.1" 200 181 0.000000
+192.168.19.160 - - [12/Jan/2024 09:31:11] "GET /socket.io/?EIO=4&transport=polling&t=Op-kat6&sid=KPMbkXzf4gDWULdKAAAQ HTTP/1.1" 200 181 0.000000
+192.168.19.160 - - [12/Jan/2024 12:57:24] "GET /socket.io/?EIO=4&transport=websocket&sid=9z2PLby3psaioyb5AAAM HTTP/1.1" 200 0 12676.970065
+192.168.19.160 - - [12/Jan/2024 12:57:28] "GET /socket.io/?EIO=4&transport=websocket&sid=KPMbkXzf4gDWULdKAAAQ HTTP/1.1" 200 0 12376.446698
+192.168.19.160 - - [12/Jan/2024 12:57:30] "GET /socket.io/?EIO=4&transport=websocket&sid=NEOgXisJlktKpTmJAAAC HTTP/1.1" 200 0 12836.187915
+Terminate batch job (Y/N)? Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(23568) wsgi starting up on http://0.0.0.0:5009
+(23568) accepted ('192.168.19.160', 59798)
+(23568) accepted ('192.168.19.160', 59799)
+192.168.19.160 - - [15/Jan/2024 07:25:41] "GET / HTTP/1.1" 200 3753 0.058010
+192.168.19.160 - - [15/Jan/2024 07:25:41] "GET /static/main.css HTTP/1.1" 304 277 0.026991
+192.168.19.160 - - [15/Jan/2024 07:25:41] "GET /static/script.js HTTP/1.1" 304 277 0.002997
+(23568) accepted ('192.168.19.160', 59801)
+The client is using an unsupported version of the Socket.IO or Engine.IO protocols (further occurrences of this error will be logged with level INFO)
+Starting live chat server...
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(5336) wsgi starting up on http://0.0.0.0:5009
+Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(11244) wsgi starting up on http://0.0.0.0:5009
+ * Detected change in 'E:\\LiveChatVersionControlled\\Live-chatApp-Admin-Panel-SocketIo\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(24572) wsgi starting up on http://0.0.0.0:5009
+ * Detected change in 'E:\\LiveChatVersionControlled\\Live-chatApp-Admin-Panel-SocketIo\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(8084) wsgi starting up on http://0.0.0.0:5009
+Terminate batch job (Y/N)? Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(21632) wsgi starting up on http://0.0.0.0:5009
+(21632) accepted ('192.168.19.160', 62433)
+(21632) accepted ('192.168.19.160', 62434)
+192.168.19.160 - - [19/Jan/2024 10:09:39] "GET / HTTP/1.1" 200 3467 6.629973
+192.168.19.160 - - [19/Jan/2024 10:09:39] "GET /static/main.css HTTP/1.1" 304 277 0.840771
+192.168.19.160 - - [19/Jan/2024 10:09:39] "GET /static/script.js HTTP/1.1" 304 277 0.003027
+(21632) accepted ('192.168.19.160', 62437)
+192.168.19.160 - - [19/Jan/2024 10:09:40] "GET /socket.io/?EIO=4&transport=polling&t=OqYwWl3 HTTP/1.1" 404 412 0.002028
+(21632) accepted ('192.168.19.160', 62438)
+192.168.19.160 - - [19/Jan/2024 10:09:40] "GET /favicon.ico HTTP/1.1" 404 412 0.001981
+192.168.19.160 - - [19/Jan/2024 10:09:41] "GET /socket.io/?EIO=4&transport=polling&t=OqYwW-f HTTP/1.1" 404 412 0.001027
+192.168.19.160 - - [19/Jan/2024 10:09:43] "GET /socket.io/?EIO=4&transport=polling&t=OqYwXWM HTTP/1.1" 404 412 0.002026
+192.168.19.160 - - [19/Jan/2024 10:09:47] "GET /socket.io/?EIO=4&transport=polling&t=OqYwYaF HTTP/1.1" 404 412 0.000999
+192.168.19.160 - - [19/Jan/2024 10:09:50] "GET / HTTP/1.1" 200 3467 0.002001
+192.168.19.160 - - [19/Jan/2024 10:09:50] "GET /socket.io/?EIO=4&transport=polling&t=OqYwZJO HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:09:51] "GET /socket.io/?EIO=4&transport=polling&t=OqYwZXN HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:09:53] "GET /socket.io/?EIO=4&transport=polling&t=OqYwZtP HTTP/1.1" 404 412 0.002030
+192.168.19.160 - - [19/Jan/2024 10:09:55] "GET /socket.io/?EIO=4&transport=polling&t=OqYwaSF HTTP/1.1" 404 412 0.001000
+192.168.19.160 - - [19/Jan/2024 10:10:00] "GET /socket.io/?EIO=4&transport=polling&t=OqYwbcx HTTP/1.1" 404 412 0.001000
+192.168.19.160 - - [19/Jan/2024 10:10:05] "GET /socket.io/?EIO=4&transport=polling&t=OqYwcrF HTTP/1.1" 404 412 0.000999
+192.168.19.160 - - [19/Jan/2024 10:10:10] "GET /socket.io/?EIO=4&transport=polling&t=OqYwe3X HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:10:15] "GET /socket.io/?EIO=4&transport=polling&t=OqYwfLe HTTP/1.1" 404 412 0.001993
+192.168.19.160 - - [19/Jan/2024 10:10:21] "GET /socket.io/?EIO=4&transport=polling&t=OqYwgpN HTTP/1.1" 404 412 0.001999
+ * Detected change in 'E:\\LiveChatVersionControlled\\Live-chatApp-Admin-Panel-SocketIo\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(24084) wsgi starting up on http://0.0.0.0:5009
+Terminate batch job (Y/N)? Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(10180) wsgi starting up on http://0.0.0.0:5009
+(10180) accepted ('192.168.19.160', 62501)
+192.168.19.160 - - [19/Jan/2024 10:10:34] "GET /socket.io/?EIO=4&transport=polling&t=OqYwj-U HTTP/1.1" 200 278 0.000998
+192.168.19.160 - - [19/Jan/2024 10:10:34] "POST /socket.io/?EIO=4&transport=polling&t=OqYwj-n&sid=SNCKyErhNLyhKZzUAAAA HTTP/1.1" 200 224 0.000909
+(10180) accepted ('192.168.19.160', 62502)
+192.168.19.160 - - [19/Jan/2024 10:10:34] "GET /socket.io/?EIO=4&transport=polling&t=OqYwj-r&sid=SNCKyErhNLyhKZzUAAAA HTTP/1.1" 200 181 0.000000
+192.168.19.160 - - [19/Jan/2024 10:10:34] "GET /socket.io/?EIO=4&transport=polling&t=OqYwj-_&sid=SNCKyErhNLyhKZzUAAAA HTTP/1.1" 200 181 0.000000
+ * Detected change in 'E:\\LiveChatVersionControlled\\Live-chatApp-Admin-Panel-SocketIo\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(18152) wsgi starting up on http://0.0.0.0:5009
+(18152) accepted ('192.168.19.160', 64211)
+192.168.19.160 - - [19/Jan/2024 10:38:33] "GET /socket.io/?EIO=4&transport=polling&t=OqZ17v1 HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:38:38] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1979 HTTP/1.1" 404 412 0.002002
+192.168.19.160 - - [19/Jan/2024 10:38:44] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1Aax HTTP/1.1" 404 412 0.001000
+192.168.19.160 - - [19/Jan/2024 10:38:50] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1C2f HTTP/1.1" 404 412 0.001998
+192.168.19.160 - - [19/Jan/2024 10:38:56] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1DWP HTTP/1.1" 404 412 0.002001
+192.168.19.160 - - [19/Jan/2024 10:39:02] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1E-8 HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:39:08] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1GRu HTTP/1.1" 404 412 0.002028
+192.168.19.160 - - [19/Jan/2024 10:39:13] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1HmF HTTP/1.1" 404 412 0.001000
+Terminate batch job (Y/N)? Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(22432) wsgi starting up on http://0.0.0.0:5009
+(22432) accepted ('192.168.19.160', 64273)
+192.168.19.160 - - [19/Jan/2024 10:39:25] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1Kbl HTTP/1.1" 404 412 0.001998
+(22432) accepted ('192.168.19.160', 64279)
+192.168.19.160 - - [19/Jan/2024 10:39:30] "GET / HTTP/1.1" 200 3467 0.020994
+192.168.19.160 - - [19/Jan/2024 10:39:30] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1Lm1 HTTP/1.1" 404 412 0.002002
+192.168.19.160 - - [19/Jan/2024 10:39:31] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1LyE HTTP/1.1" 404 412 0.001998
+192.168.19.160 - - [19/Jan/2024 10:39:33] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1MQq HTTP/1.1" 404 412 0.002000
+192.168.19.160 - - [19/Jan/2024 10:39:35] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1N5s HTTP/1.1" 404 412 0.001000
+192.168.19.160 - - [19/Jan/2024 10:39:39] "GET / HTTP/1.1" 200 3467 0.002027
+192.168.19.160 - - [19/Jan/2024 10:39:40] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1O9N HTTP/1.1" 404 412 0.006003
+192.168.19.160 - - [19/Jan/2024 10:39:41] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1ONv HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:39:43] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1O_C HTTP/1.1" 404 412 0.001000
+192.168.19.160 - - [19/Jan/2024 10:39:47] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1PsS HTTP/1.1" 404 412 0.002000
+192.168.19.160 - - [19/Jan/2024 10:39:52] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1R4m HTTP/1.1" 404 412 0.002001
+192.168.19.160 - - [19/Jan/2024 10:39:56] "GET / HTTP/1.1" 200 3467 0.002000
+192.168.19.160 - - [19/Jan/2024 10:39:56] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1SAV HTTP/1.1" 404 412 0.002000
+192.168.19.160 - - [19/Jan/2024 10:39:58] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1SXX HTTP/1.1" 404 412 0.002999
+192.168.19.160 - - [19/Jan/2024 10:40:01] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1TFm HTTP/1.1" 404 412 0.002000
+192.168.19.160 - - [19/Jan/2024 10:40:06] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1Uc9 HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:40:12] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1W3v HTTP/1.1" 404 412 0.002000
+192.168.19.160 - - [19/Jan/2024 10:40:18] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1XXf HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:40:24] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1Y_P HTTP/1.1" 404 412 0.001000
+192.168.19.160 - - [19/Jan/2024 10:40:30] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1aTA HTTP/1.1" 404 412 0.000999
+192.168.19.160 - - [19/Jan/2024 10:40:36] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1bww HTTP/1.1" 404 412 0.002000
+192.168.19.160 - - [19/Jan/2024 10:40:42] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1dOg HTTP/1.1" 404 412 0.000999
+192.168.19.160 - - [19/Jan/2024 10:40:48] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1esP HTTP/1.1" 404 412 0.001997
+192.168.19.160 - - [19/Jan/2024 10:40:54] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1gK9 HTTP/1.1" 404 412 0.002000
+192.168.19.160 - - [19/Jan/2024 10:41:00] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1hnv HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:41:06] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1jFg HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:41:12] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1kjP HTTP/1.1" 404 412 0.001000
+192.168.19.160 - - [19/Jan/2024 10:41:18] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1mBA HTTP/1.1" 404 412 0.000998
+192.168.19.160 - - [19/Jan/2024 10:41:24] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1new HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:41:30] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1p6g HTTP/1.1" 404 412 0.000999
+192.168.19.160 - - [19/Jan/2024 10:41:36] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1qaQ HTTP/1.1" 404 412 0.001997
+Terminate batch job (Y/N)? Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(24628) wsgi starting up on http://0.0.0.0:5009
+(24628) accepted ('192.168.19.160', 64425)
+192.168.19.160 - - [19/Jan/2024 10:41:49] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1tlY HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:41:54] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1uzz HTTP/1.1" 404 412 0.000999
+(24628) accepted ('192.168.19.160', 64436)
+192.168.19.160 - - [19/Jan/2024 10:41:59] "GET / HTTP/1.1" 200 3467 0.013996
+192.168.19.160 - - [19/Jan/2024 10:41:59] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1wBf HTTP/1.1" 404 412 0.001001
+192.168.19.160 - - [19/Jan/2024 10:42:00] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1wVn HTTP/1.1" 404 412 0.002000
+192.168.19.160 - - [19/Jan/2024 10:42:01] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1wna HTTP/1.1" 404 412 0.000999
+192.168.19.160 - - [19/Jan/2024 10:42:06] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1xv9 HTTP/1.1" 404 412 0.001998
+192.168.19.160 - - [19/Jan/2024 10:42:12] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1zMw HTTP/1.1" 404 412 0.002001
+192.168.19.160 - - [19/Jan/2024 10:42:18] "GET /socket.io/?EIO=4&transport=polling&t=OqZ1-qg HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:42:24] "GET /socket.io/?EIO=4&transport=polling&t=OqZ20IQ HTTP/1.1" 404 412 0.000999
+192.168.19.160 - - [19/Jan/2024 10:42:30] "GET /socket.io/?EIO=4&transport=polling&t=OqZ21mA HTTP/1.1" 404 412 0.001984
+192.168.19.160 - - [19/Jan/2024 10:42:36] "GET /socket.io/?EIO=4&transport=polling&t=OqZ23Dx HTTP/1.1" 404 412 0.000999
+192.168.19.160 - - [19/Jan/2024 10:42:42] "GET /socket.io/?EIO=4&transport=polling&t=OqZ24hh HTTP/1.1" 404 412 0.001000
+192.168.19.160 - - [19/Jan/2024 10:42:48] "GET /socket.io/?EIO=4&transport=polling&t=OqZ269R HTTP/1.1" 404 412 0.001027
+192.168.19.160 - - [19/Jan/2024 10:42:54] "GET /socket.io/?EIO=4&transport=polling&t=OqZ27dB HTTP/1.1" 404 412 0.000999
+192.168.19.160 - - [19/Jan/2024 10:42:57] "GET / HTTP/1.1" 200 3467 0.002000
+192.168.19.160 - - [19/Jan/2024 10:42:57] "GET /socket.io/?EIO=4&transport=polling&t=OqZ28Jk HTTP/1.1" 404 412 0.000999
+192.168.19.160 - - [19/Jan/2024 10:42:58] "GET /socket.io/?EIO=4&transport=polling&t=OqZ28dy HTTP/1.1" 404 412 0.002008
+192.168.19.160 - - [19/Jan/2024 10:43:01] "GET /socket.io/?EIO=4&transport=polling&t=OqZ29Fy HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:43:06] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2AYh HTTP/1.1" 404 412 0.001998
+192.168.19.160 - - [19/Jan/2024 10:43:12] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2C0R HTTP/1.1" 404 412 0.002000
+192.168.19.160 - - [19/Jan/2024 10:43:18] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2DUA HTTP/1.1" 404 412 0.000999
+192.168.19.160 - - [19/Jan/2024 10:43:24] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2Exw HTTP/1.1" 404 412 0.001998
+192.168.19.160 - - [19/Jan/2024 10:43:30] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2GPh HTTP/1.1" 404 412 0.001998
+192.168.19.160 - - [19/Jan/2024 10:43:36] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2HtQ HTTP/1.1" 404 412 0.001999
+ * Detected change in 'E:\\LiveChatVersionControlled\\Live-chatApp-Admin-Panel-SocketIo\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(13508) wsgi starting up on http://192.168.19.160:5009
+Terminate batch job (Y/N)? Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(13584) wsgi starting up on http://192.168.19.160:5009
+(13584) accepted ('192.168.19.160', 64560)
+192.168.19.160 - - [19/Jan/2024 10:43:49] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2L2Y HTTP/1.1" 404 412 0.002999
+192.168.19.160 - - [19/Jan/2024 10:43:55] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2MWI HTTP/1.1" 404 412 0.001000
+192.168.19.160 - - [19/Jan/2024 10:44:00] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2Nkg HTTP/1.1" 404 412 0.000997
+(13584) accepted ('192.168.19.160', 64583)
+192.168.19.160 - - [19/Jan/2024 10:44:26] "GET / HTTP/1.1" 200 3467 0.017994
+192.168.19.160 - - [19/Jan/2024 10:44:26] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2U2n HTTP/1.1" 404 412 0.001000
+192.168.19.160 - - [19/Jan/2024 10:44:27] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2UJN HTTP/1.1" 404 412 0.002000
+192.168.19.160 - - [19/Jan/2024 10:44:29] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2Uq_ HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:44:34] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2W3K HTTP/1.1" 404 412 0.002001
+192.168.19.160 - - [19/Jan/2024 10:44:39] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2XHh HTTP/1.1" 404 412 0.002000
+192.168.19.160 - - [19/Jan/2024 10:44:44] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2YW1 HTTP/1.1" 404 412 0.001998
+192.168.19.160 - - [19/Jan/2024 10:44:46] "GET / HTTP/1.1" 200 3467 0.002000
+192.168.19.160 - - [19/Jan/2024 10:44:46] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2Z2C HTTP/1.1" 404 412 0.002000
+192.168.19.160 - - [19/Jan/2024 10:44:47] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2ZEK HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:44:48] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2ZZ4 HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:44:52] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2aQd HTTP/1.1" 404 412 0.001000
+192.168.19.160 - - [19/Jan/2024 10:44:57] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2bf3 HTTP/1.1" 404 412 0.000998
+192.168.19.160 - - [19/Jan/2024 10:45:03] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2d6o HTTP/1.1" 404 412 0.000998
+192.168.19.160 - - [19/Jan/2024 10:45:08] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2eL6 HTTP/1.1" 404 412 0.001999
+192.168.19.160 - - [19/Jan/2024 10:45:13] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2fZQ HTTP/1.1" 404 412 0.001970
+192.168.19.160 - - [19/Jan/2024 10:45:18] "GET /socket.io/?EIO=4&transport=polling&t=OqZ2gnl HTTP/1.1" 404 412 0.000999
+ * Detected change in 'E:\\LiveChatVersionControlled\\Live-chatApp-Admin-Panel-SocketIo\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(21812) wsgi starting up on http://0.0.0.0:5009
+ * Detected change in 'E:\\LiveChatVersionControlled\\Live-chatApp-Admin-Panel-SocketIo\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282
+(22984) wsgi starting up on http://0.0.0.0:5009
+Terminate batch job (Y/N)? Starting live chat server...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-454-282

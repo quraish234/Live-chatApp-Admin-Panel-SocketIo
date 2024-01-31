@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
 // Global variables
-  var message_socket = io('http://127.0.0.1:5009/message');
+  var message_socket = io('http://192.168.19.160:5009/message');
 
 // Open and close user chatbox window
   $('#open-button').on('click', function() {

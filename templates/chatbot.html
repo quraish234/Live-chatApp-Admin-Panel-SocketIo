@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Rasa Admin Panel</title>
+
+   <style>
+      body {
+         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         background-color: #f8f9fa;
+         margin: 0;
+         padding: 0;
+         box-sizing: border-box;
+      }
+
+      h1 {
+         text-align: center;
+         color: #007bff;
+      }
+
+      form {
+         margin: 20px auto;
+         max-width: 800px;
+      }
+
+      table {
+         width: 120%;
+         border-collapse: collapse;
+         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+         margin-top: 20px;
+      }
+
+      th, td {
+         padding: 15px;
+         border: 1px solid #dee2e6;
+         text-align: left;
+      }
+
+      th {
+         background-color: #007bff;
+         color: #ffffff;
+      }
+
+      tr:hover {
+         background-color: #e2e6ea;
+      }
+
+      .user-group {
+         background-color: #eaf2ff; /* Light blue, adjust as needed */
+      }
+
+      .user-group-same-id {
+         background-color: #ffeb3b; /* Yellow background for rows with the same user ID */
+         border-bottom: 4px solid #ff0000; /* Red border for rows with the same user ID */
+      }
+
+      button {
+         background-color: #28a745;
+         color: #ffffff;
+         padding: 10px 20px;
+         border: none;
+         cursor: pointer;
+         font-size: 16px;
+         border-radius: 4px;
+      }
+
+      button:hover {
+         background-color: #218838;
+      }
+      .status-dropdown {
+         width: 150px;
+         padding: 8px;
+         box-sizing: border-box;
+      }
+      
+   </style>
+</head>
+<body>
+   <h1>IT Support Admin Panel</h1>
+   <form method="post" action="/mark_read">
+       <table>
+           <tr>
+               <th>User ID</th>
+               <th>User Message</th>
+               <th>Bot Response</th>
+               <th>Status</th>
+               <th>Mark as Resolved</th>
+           </tr>
+           {% for chat in chats %}
+           {% if loop.index > 1 and chat.user_id == chats[loop.index-2].user_id %}
+               <tr class="user-group-same-id" id="user_{{ chat.user_id }}">
+           {% else %}
+               <tr class="user-group" id="user_{{ chat.user_id }}">
+           {% endif %}
+               <td>{{ chat.user_id }}</td>
+               <td>{{ chat.message }}</td>
+               <td>{{ chat.bot_response }}</td>
+               <td>
+                   <select class="status-dropdown" name="status[]" id="status_{{ chat.user_id }}" onchange="updateBackgroundColor(this, '{{ chat.user_id }}')">
+                       <option value="In Progress" style="background-color: #ffeeba;">In Progress</option>
+                       <option value="On Hold" style="background-color: #b8daff;">On Hold</option>
+                       <option value="Solved" style="background-color: #c3e6cb;">Solved</option>
+                       <option value="Closed" style="background-color: #f5c6cb;">Closed</option>
+                   </select>
+               </td>
+               <td><input type="checkbox" name="read[]" value="{{ chat.user_id }}"></td>
+           </tr>
+           {% endfor %}
+       </table>
+       <button type="button" onclick="markAsRead()">Mark Selected as Resolved</button>
+   </form>
+
+   <!-- Include Socket.IO library -->
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+
+   <script>
+       var socket = io.connect('http://' + document.domain + ':' + location.port);
+
+       // Function to mark selected chats as read and emit WebSocket event
+       function markAsRead() {
+           var markedChats = [];
+           var checkboxes = document.getElementsByName('read[]');
+           checkboxes.forEach(function(checkbox) {
+               if (checkbox.checked) {
+                   markedChats.push(checkbox.value);
+               }
+           });
+
+           // Emit the WebSocket event
+           socket.emit('mark_read', { 'read': markedChats });
+
+           // Clear the checkboxes
+           checkboxes.forEach(function(checkbox) {
+               checkbox.checked = false;
+           });
+       }
+
+       // Function to update background color based on the selected option
+       function updateBackgroundColor(selectElement, userId) {
+           var selectedOption = selectElement.options[selectElement.selectedIndex];
+           var backgroundColor = selectedOption.style.backgroundColor;
+           var userRow = document.getElementById('user_' + userId);
+           userRow.style.backgroundColor = backgroundColor;
+       }
+
+       // Listen for WebSocket event to update the page content
+       socket.on('update_chats', function(data) {
+           alert(data.message);  // You can replace this with a more sophisticated update logic
+           // For a more seamless update, consider updating the specific elements on the page with new data
+       });
+       update_chats();
+       setInterval(updateUserList, 30000);
+   </script>
+</body>
+</html>

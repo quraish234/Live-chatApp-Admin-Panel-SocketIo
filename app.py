@@ -3,7 +3,8 @@ from flask_socketio import SocketIO, send, emit, join_room, leave_room
 from flask_cors import CORS
 import os
 import mysql.connector
-
+#import eventlet  # or 
+#import gevent
 SECRET_KEY = os.urandom(32)
 
 app = Flask(__name__)
@@ -14,9 +15,9 @@ socketio = SocketIO(app, cors_allowed_origins="*")
 
 # Establish a connection to the MySQL database
 db = mysql.connector.connect(
-    host="192.168.19.160",
-    user="usher",
-    password="Um@ir65048420",
+    host="127.0.0.1",
+    user="root",
+    password="Qwerty123!@#",
     database="rasa"
 )
 cursor = db.cursor()
@@ -36,6 +37,70 @@ def admin():
     users.update(dict(user_data))
     
     return render_template('admin.html', users=users, chats=chats)
+
+@app.route('/chatbot')
+def chatbot():
+    # Fetch user chats from the database
+    chats = get_user_chats()
+    return render_template('chatbot.html', chats=chats)
+
+def get_user_chats():
+    # Connect to the MySQL database
+    conn = mysql.connector.connect(
+        host="127.0.0.1",
+        user="root",
+        password="Qwerty123!@#",
+        database="rasa"
+    )
+    cursor = conn.cursor(dictionary=True)
+
+    # Fetch user chats
+    select_query = "SELECT * FROM it_chat_history"
+    cursor.execute(select_query)
+    chats = cursor.fetchall()
+
+    cursor.close()
+    conn.close()
+
+    return chats
+
+@socketio.on('mark_read')
+def handle_mark_read(data):
+    marked_as_read = data['read']
+
+    # Update the database to mark selected chats as read
+    update_query = "UPDATE it_chat_history SET is_read = 1 WHERE user_id IN ('{}')".format("','".join(marked_as_read))
+
+    conn = mysql.connector.connect(
+        host="127.0.0.1",
+        user="root",
+        password="Qwerty123!@#",
+        database="rasa"
+    )
+    cursor = conn.cursor()
+    cursor.execute(update_query)
+    conn.commit()  # Commit the changes to the database
+    cursor.close()
+    conn.close()
+
+    # Update the database with the selected status for each user
+    for user_id, status in data.get('status', {}).items():
+        status_update_query = f"UPDATE it_chat_history SET status = '{status}' WHERE user_id = '{user_id}'"
+
+        conn = mysql.connector.connect(
+            host="127.0.0.1",
+            user="root",
+            password="Qwerty123!@#",
+            database="rasa"
+        )
+        cursor = conn.cursor()
+        cursor.execute(status_update_query)
+        conn.commit()
+        cursor.close()
+        conn.close()
+
+    # Emit the update to all connected clients
+    socketio.emit('update_chats', {'message': 'Chats marked as read and status updated'})
 
 # Get username
 @socketio.on('username', namespace='/message')
@@ -100,6 +165,7 @@ def live_typing(data):
     emit('display', data, room=room)
 
 
+
 @socketio.on_error(namespace='/message')
 def chat_error_handler(e):
     print('An error has occurred: ' + str(e))
@@ -108,28 +174,3 @@ def chat_error_handler(e):
 if __name__ == '__main__':
     socketio.run(app, host='0.0.0.0', port=5009, debug=True)
 
-# TRŪKSTA:
-# TO DO: Live typing indication - 50 % (left to make indication for users typo too)
-# TO DO: Sent/Delivered/Seen statuses
-# TO DO: Per session chat history (save as output?)
-# TO DO: Load chat history for user too (after refresh keep in same old room?)
-# TO DO: Alert new user, new messages for admin (+autoadd new user to chat menu)
-# TO DO: Break words if they are tooooooo long to fit chatbox window
-# TO DO: Doesn't work input required
-# TO DO: If user message room != current admin room change chat menu button color
-# TO DO: Add log out/disconnected
-
-# @socketio.on('leave')
-# def on_leave(data):
-#     username = data['username']
-#     room = data['room']
-#     leave_room(room)
-#     send(username + ' has left the room.', room=room)
-#
-# @socketio.on('connect')
-# def test_connect():
-#     emit('my response', {'data': 'Connected'})
-#
-# @socketio.on('disconnect')
-# def test_disconnect():
-#     print('Client disconnected')
